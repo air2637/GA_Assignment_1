@@ -1,0 +1,971 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.948797,
+          1.331506
+        ]
+      },
+      "properties": {
+        "info": "44 Votes\r\nBadoque (Bedok)\r\nEUROPEAN • HALAL • ITALIAN • PIZZA • SEAFOOD • MORE\r\nADDRESS: 298 Bedok Road, 469454\r\n",
+        "vote": "77%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9387,
+          1.32785
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\r\nfRoZ BAKERY (Bedok)\r\nWESTERN\r\nADDRESS: #01-02, 128 Bedok North Street 2, 460128\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938751,
+          1.331981
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nChong Pang Huat (Bedok)\r\nCHINESE • SNACKS • WESTERN\r\nADDRESS: #01-248, Fengshan Market and Food Centre, Blk 85 Bedok North Street 4, 460085\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nBedok Chwee Kueh (Bedok)\r\nCHINESE • LOCAL • SNACKS\r\nADDRESS: #01-53, Bedok Interchange Food Centre(New Upper Changi Road Food Centre), 207 New Upper Changi Road, 460207\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938751,
+          1.331981
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nChai Chee Pork Porridge (Bedok)\r\nASIAN • CHINESE • LOCAL • SINGAPOREAN\r\nADDRESS: #01-210, 85 Bedok North Street 4, 460085\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.941535,
+          1.325364
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nEmicakes (Bedok)\r\nDESSERTS • WESTERN\r\nADDRESS: #01-1298, 56 New Upper Changi Road, 461056\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.948877,
+          1.331414
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nSoon Huat Bak Kut Teh (Bedok)\r\nASIAN • CHINESE • MALAY / INDONESIAN\r\nADDRESS: Bedok Shopping Complex, 302 Bedok Road, 469460\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92989,
+          1.328627
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nHong Kong Zhai House of Dim Sum (Bedok)\r\nASIAN • CHINESE • HONG KONG\r\nADDRESS: #01-97, 418 Bedok North Avenue 2, 460418\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930985,
+          1.3096969
+        ]
+      },
+      "properties": {
+        "info": "41 Votes\r\nDiamond Kitchen (Laguna Park Condominum) \r\nASIAN • CHINESE\r\nADDRESS: #01-22/23, Laguna Park Condominum, 5000F Marine Parade Road, 449289\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9355549,
+          1.320549
+        ]
+      },
+      "properties": {
+        "info": "67 Votes\r\nHill Street Char Kway Teow \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-41, Bedok South Market and Food Centre, 16 Bedok South Road, 460016\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.928821,
+          1.31329
+        ]
+      },
+      "properties": {
+        "info": "101 Votes\r\nEtna Italian Restaurant (East Coast) \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 110 Upper East Coast Road, 455298\r\n",
+        "vote": "74%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930657,
+          1.305216
+        ]
+      },
+      "properties": {
+        "info": "107 Votes\r\nJumbo Seafood (East Coast) \r\nASIAN • CHINESE • SEAFOOD\r\nADDRESS: #01-08, East Coast Seafood Centre, 1206 East Coast Parkway, 449883\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "11 Votes\r\nWingstop (Bedok Mall) \r\nAMERICAN\r\nADDRESS: #B1-53, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.932292,
+          1.324516
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nGong Cha (Bedok Point) \r\nFRUITS & DRINKS • TAIWANESE\r\nADDRESS: #02-30, Bedok Point, 799 New Upper Changi Road, 467351\r\n",
+        "vote": "84%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92741,
+          1.313071
+        ]
+      },
+      "properties": {
+        "info": "61 Votes\r\nMegumi Japanese Restaurant (East Coast) \r\nASIAN • JAPANESE\r\nADDRESS: #01-03, Lodge 77, 77 Upper East Coast Road, 455218\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nInspirasi Stall \r\nASIAN • HALAL • INDONESIAN • MALAY • SNACKS\r\nADDRESS: #01-11, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.922713,
+          1.337976
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nDa Sheng Minced Pork Noodles \r\nASIAN • CHINESE\r\nADDRESS: #01-3139, 739 Bedok Reservoir Road, 470739\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.921607,
+          1.337464
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSubway (Bedok Reservoir) \r\nAMERICAN • SNACKS • WESTERN\r\nADDRESS: #01-3031, Reservoir Village, 744 Bedok Reservoir Road, 470744\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938978,
+          1.332541
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nMilk and Honey Gelato \r\nDESSERTS • FRUITS & DRINKS • WESTERN\r\nADDRESS: #01-179., 86 Bedok North Street 4, 460086\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMr Bean (Bedok Mall) \r\nDESSERTS • SNACKS\r\nADDRESS: #01-94, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9355549,
+          1.320549
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nKoon Kee Duck Rice \r\nCHINESE\r\nADDRESS: #01-217, Bedok South Market and Food Centre, Blk 16 Bedok South Road, 460016\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930561,
+          1.333244
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nTian Nan Xing Minced Pork Noodles \r\nCHINESE\r\nADDRESS: #01-10, Kaki Bukit 511 Market and Food Centre, Blk 511 Bedok North Street 3, 460511\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935039,
+          1.30668
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nLeng Heng BBQ Seafood & Claypot Deluxe \r\nASIAN • CHINESE • SEAFOOD • ZI CHAR\r\nADDRESS: Stall 5 & 6, East Coast Lagoon Food Village, 1220 East Coast Parkway, 468960\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9479549,
+          1.331283
+        ]
+      },
+      "properties": {
+        "info": "43 Votes\r\nSpize (Bedok) \r\nASIAN • HALAL • INDIAN • INDONESIAN • LOCAL • MORE\r\nADDRESS: 336 Bedok Road, 469512\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930712,
+          1.330059
+        ]
+      },
+      "properties": {
+        "info": "25 Votes\r\nBotak Jones (Bedok) \r\nAMERICAN • HALAL • WESTERN\r\nADDRESS: #01-114, 412 Bedok North Avenue 2, 460412\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935139,
+          1.328263
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nPercolate \r\nWESTERN\r\nADDRESS: #01-152, 136 Bedok North Avenue 3, 460136\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.93646,
+          1.331422
+        ]
+      },
+      "properties": {
+        "info": "100 Votes\r\nChin Lee Restaurant \r\nASIAN • CHINESE • TEOCHEW\r\nADDRESS: #01-285, 115 Bedok North Road, 460115\r\n",
+        "vote": "69%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nScallop-Q \r\nASIAN • SNACKS\r\nADDRESS: #B2-K7, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nYan Kee Kitchen \r\nCHINESE • SEAFOOD\r\nADDRESS: #01-38, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPoh Kee \r\nCHINESE\r\nADDRESS: #01-08, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.932292,
+          1.324516
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nThai Boat Noodle (Bedok Point) \r\nASIAN • INDOCHINESE • THAI\r\nADDRESS: #02-32/33/34, Bedok Point, 799 New Upper Changi Road, 467351\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9255979,
+          1.316096
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nReunion Steamboat \r\nADDRESS: South Union Park, 57B Jalan Tua Kong, 457253\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.927699,
+          1.313116
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nUdders & Kook \r\nDESSERTS • WESTERN\r\nADDRESS: Goodwill Court, 81 Upper East Coast Road, 455220\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930561,
+          1.333244
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nM.M. BBQ Fish \r\nBARBECUE • SEAFOOD\r\nADDRESS: #01-36, Kaki Bukit 511 Market and Food Centre, Blk 511 Bedok North Street 3, 460511\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935039,
+          1.30668
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nHaron 30 Satay \r\nASIAN • SNACKS\r\nADDRESS: Stall 55, East Coast Lagoon Food Village, 1220 East Coast Parkway, 468960\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930561,
+          1.333244
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nChong Pang \r\nWESTERN\r\nADDRESS: #01-05, Kaki Bukit 511 Market and Food Centre, Blk 511 Bedok North Street 3, 460511\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9242529,
+          1.331769
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nEvertop Hainanese Boneless Chicken Rice (Bedok North)\r\nASIAN • CHINESE • HAINANESE • HALAL\r\nADDRESS: #01-555, Blk 537 Bedok North Street 3, 460537\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.932292,
+          1.324516
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nEatzi Gourmet Restaurant (Bedok Point) \r\nFUSION • HALAL • WESTERN\r\nADDRESS: #03-08/10, Bedok Point, 799 New Upper Changi Road, 467351\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nHock Hai Curry Chicken Bee Hoon Noodle \r\nASIAN • CHINESE • LOCAL • SINGAPOREAN\r\nADDRESS: #01-37, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935039,
+          1.30668
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nKampong Rojak \r\nASIAN • CHINESE • LOCAL • SNACKS\r\nADDRESS: Stall 9, East Coast Lagoon Food Village, 1220 East Coast Parkway, 468960\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930218,
+          1.323794
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nWowSnack \r\nASIAN • CHINESE\r\nADDRESS: Bedok MRT Station, 315 New Upper Changi Road, 467347\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nHot Tomato Express (Bedok Mall) \r\nAMERICAN • WESTERN\r\nADDRESS: #B1-37/38, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930561,
+          1.333244
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nQuan Xing Spicy Prawn Crackers \r\nCHINESE\r\nADDRESS: #01-25, Kaki Bukit 511 Market and Food Centre, Blk 511 Bedok North Street 3, 460511\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nZhong Xing Ban Mian \r\nCHINESE\r\nADDRESS: #01-17, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.935139,
+          1.328263
+        ]
+      },
+      "properties": {
+        "info": "113 Votes\r\nNakhon Kitchen (Bedok) \r\nASIAN • INDOCHINESE • THAI\r\nADDRESS: #01-166, 136 Bedok North Avenue 3, 460136\r\n",
+        "vote": "51%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.932292,
+          1.324516
+        ]
+      },
+      "properties": {
+        "info": "11 Votes\r\nPopeyes Louisiana Kitchen (Bedok Point) \r\nAMERICAN • CAJUN/CREOLE • WESTERN\r\nADDRESS: #03-01/04, Bedok Point, 799 New Upper Changi Road, 467351\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.938751,
+          1.331981
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nWestern Food 85 \r\nWESTERN\r\nADDRESS: #01-257, 85 Bedok North Street 4, 460085\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.933263,
+          1.32735
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\n216 Fried Carrot Cake . Fried Kuay Teow Noodles\r\nCHINESE • SNACKS\r\nADDRESS: #01-61, Blk 216 Bedok North St 1 Market and Food Centre, Blk 216 Bedok North Street 1, 460216\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSong Zhou Luo Bo Gao \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-18, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9355549,
+          1.320549
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nWong Porridge \r\nCHINESE\r\nADDRESS: #01-245, Bedok South Market and Food Centre, 16 Bedok South Road, 460016\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPepper Lunch (Bedok Mall) \r\nFUSION • JAPANESE\r\nADDRESS: #1-05/06/07/08, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.925492,
+          1.312827
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nMezza On Nine \r\nEUROPEAN • WESTERN\r\nADDRESS: #01-01, 9 Upper East Coast Road, 455203\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.929827,
+          1.332008
+        ]
+      },
+      "properties": {
+        "info": "17 Votes\r\nHong Mei Western Delight (Bedok North) \r\nASIAN • CHINESE • HAINANESE\r\nADDRESS: #01-181, 515 Bedok North Ave 2, 460515\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930561,
+          1.333244
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nAliff Nasi Lemak \r\nMALAY • MALAYSIAN\r\nADDRESS: #01-19, Kaki Bukit 511 Market and Food Centre, Blk 511 Bedok North Street 3, 460511\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930561,
+          1.333244
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMeng Huat Fresh Fruits Juice \r\nFRUITS & DRINKS\r\nADDRESS: #01-24, Kaki Bukit 511 Market and Food Centre, Blk 511 Bedok North Street 3, 460511\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.928759,
+          1.313272
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nThe Dog & Bone Pub \r\nADDRESS: Camelodge, 106 Upper East Coast Road, 455296\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": " \r\n1 Vote\r\nDian Xiao Er (Bedok Mall) \r\nASIAN • CHINESE\r\nADDRESS: #01-73/74, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.924321,
+          1.321011
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPlank Sourdough Pizza \r\nAMERICAN • DESSERTS • WESTERN\r\nADDRESS: Opera Estate, 1 Swan Lake Avenue, 455700\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nWak Din \r\nCHINESE • DESSERTS • MALAY • MALAYSIAN\r\nADDRESS: #01-15, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930374,
+          1.325297
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nHock Hai Curry Chicken Noodle \r\nCHINESE\r\nADDRESS: #01-34, Bedok Interchange Food Centre, 207 New Upper Changi Road, 460207\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.926885,
+          1.31309
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMikawa Yakitori Bar \r\nASIAN • JAPANESE\r\nADDRESS: 53 Upper East Coast Road, 455214\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.95541,
+          1.320837
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nYe Lai Xiang Hot and Cold Cheng Tng \r\nASIAN • DESSERTS • LOCAL • SINGAPOREAN\r\nADDRESS: Stall #31, Bedok Corner Food Centre, 1 Bedok Road, 469572\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.926024,
+          1.312934
+        ]
+      },
+      "properties": {
+        "info": "23 Votes\r\nThe Royals Cafe \r\nASIAN • DESSERTS • HALAL • LOCAL • SINGAPOREAN • MORE\r\nADDRESS: Crescendo Building, 19 Upper East Coast Road, 455209\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9355549,
+          1.320549
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nBedok South Niu Ji Prawn Noodles \r\nASIAN • CHINESE • LOCAL • SINGAPOREAN\r\nADDRESS: #01-199, Bedok South Market and Food Centre, Blk 16 Bedok South Road, 460016\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9242529,
+          1.331769
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\r\nSimple Food \r\nASIAN • EUROPEAN • ITALIAN • VEGETARIAN • WESTERN\r\nADDRESS: #01-511, 537 Bedok North Street 3, 460537\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9242529,
+          1.331769
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nBorobudur Nonya Delights \r\nASIAN • NONYA • PERANAKAN\r\nADDRESS: #01-523, 537 Bedok North Street 3, 460537\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930752,
+          1.326049
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nRedhorn Bill \r\nASIAN • CHINESE\r\nADDRESS: #01-357, 205 Bedok North Street 1, 460205\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.930712,
+          1.330059
+        ]
+      },
+      "properties": {
+        "info": "38 Votes\r\nJing Long Seafood Restaurant \r\nASIAN • CHINESE\r\nADDRESS: #01-152, 412 Bedok North Avenue 2, 460412\r\n",
+        "vote": "66%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nKFC (Bedok Mall) \r\nHALAL • WESTERN\r\nADDRESS: #B2-06 & 33, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
+        "vote": "100%\r\n"
+      }
+    }
+  ]
+}

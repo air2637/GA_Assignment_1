@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784053,
+          1.442321
+        ]
+      },
+      "properties": {
+        "info": "34 Votes\r\nSakura International Buffet Restaurant (Admiralty)\r\nASIAN • HALAL • INTERNATIONAL • JAPANESE\r\nADDRESS: Admiralty Park, 31 Riverside Road, 739087\r\n",
+        "vote": "68%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\r\nRasa Istimewa Woodlands Waterfront Restaurant\r\nHALAL • SEAFOOD • WESTERN\r\nADDRESS: Woodlands Waterfront Park, 6A Admiralty Road West, 757445\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824025,
+          1.4417
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nChye Lye Restaurant\r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: 1 Jalan Legundi, 759263\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.815429,
+          1.455317
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nMilkk Cafe\r\nASIAN • WESTERN\r\nADDRESS: #01-13, Bicycle Point Near Lifts A / B, 482 Admiralty Link, 750482\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824824,
+          1.441872
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nProsperous Kitchen (Sembawang Shopping Centre)\r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #02-24, Sembawang Shopping Centre, 604 Sembawang Road, 758459\r\n",
+        "vote": "69%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8191669,
+          1.448417
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nOld Chang Kee (Sun Plaza)\r\nASIAN • HALAL • LOCAL • SINGAPOREAN • SNACKS\r\nADDRESS: #B1-44, Sun Plaza, 30 Sembawang Drive, 757713\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886244,
+          1.361337
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nDomino's Pizza (Kovan)\r\nAMERICAN • EUROPEAN • HALAL • ITALIAN • WESTERN\r\nADDRESS: 943/945 Upper Serangoon Road, 534710\r\n",
+        "vote": "69%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8191669,
+          1.448417
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nSakae Sushi (Sun Plaza)\r\nASIAN • JAPANESE\r\nADDRESS: #02-21, Sun Plaza, 30 Sembawang Drive, 757713\r\n",
+        "vote": "44%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.809077,
+          1.448591
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSoon Eastern Restaurant \r\nASIAN • CHINESE\r\nADDRESS: #04-55, 15 Woodlands Loop, 738322\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824824,
+          1.441872
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nDino Cake House & Cafe (Sembawang SC) \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: #B1-16, Sembawang Shopping Centre, 604 Sembawang Road, 758459\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79527,
+          1.437703
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nKFC (Woodlands 888) \r\nHALAL • WESTERN\r\nADDRESS: #01-729, 888 Plaza, 888 Woodlands Drive 50, 730888\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.819445,
+          1.469366
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nGalley by the Straits \r\nASIAN • CHINESE • SEAFOOD • WESTERN\r\nADDRESS: Saf Yacht Club, 43 Admiralty Road West, 759962\r\n",
+        "vote": "50%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.824824,
+          1.441872
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nWan Chai Hong Kong Tea Room (Sembawang) \r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #03-12/13, Sembawang Shopping Centre, 604 Sembawang Road, 758459\r\n",
+        "vote": "50%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832875,
+          1.453652
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\r\n1036 Live Seafood \r\nASIAN • CHINESE • SEAFOOD\r\nADDRESS: 1036 Sembawang Road, 758504\r\n",
+        "vote": "35%\r\n"
+      }
+    }
+  ]
+}

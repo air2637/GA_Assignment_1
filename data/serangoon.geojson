@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nDin Tai Fung (Nex)\r\nASIAN • CHINESE • SHANGHAINESE • TAIWANESE\r\nADDRESS: #B1-10/11/12, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873677,
+          1.361337
+        ]
+      },
+      "properties": {
+        "info": "30 Votes\r\n8 Degrees Taiwanese Bistro (Tech Chye Terrace)\r\nASIAN • CHINESE • FUSION • TAIWANESE • WESTERN\r\nADDRESS: 37 Tech Chye Terrace, 545616\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898837,
+          1.372568
+        ]
+      },
+      "properties": {
+        "info": "25 Votes\r\nNature Vegetarian Delights (Hougang)\r\nASIAN • CHINESE • VEGETARIAN\r\nADDRESS: #01-803, 356 Hougang Ave 7, 530356\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "46 Votes\r\nThe Ship Restaurant & Bar (Nex)\r\nEUROPEAN • STEAK AND GRILLS • WESTERN\r\nADDRESS: #01-61/62, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.875584,
+          1.3506689
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nOttimo Pasta & Grill\r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: Stall 9, 2 Lorong Lew Lian, 531002\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8663739,
+          1.364548
+        ]
+      },
+      "properties": {
+        "info": "33 Votes\r\nAh Hock Fried Hokkien Noodles\r\nASIAN • CHINESE • HOKKIEN • LOCAL\r\nADDRESS: #01-27, Chomp Chomp Food Centre, 20 Kensington Park Road, 557269\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "33 Votes\r\nRamenPlay (Nex)\r\nASIAN • JAPANESE\r\nADDRESS: #B2-58/59, Nex, 3 Serangoon Central, 556083\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "27 Votes\r\nPutien (Nex)\r\nASIAN • CHINESE • HOKKIEN\r\nADDRESS: #02-18/19, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876909,
+          1.353392
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nTandoor Curry Club (Teck Chye Terrace) \r\nASIAN • HALAL • INDIAN • NORTH INDIAN\r\nADDRESS: 27 Teck Chye Terrace, 545729\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893935,
+          1.362767
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nRestaurant 121 \r\nASIAN • CHINESE\r\nADDRESS: #01-84, 6 Hougang Ave 3, 530006\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTai Lei Loi Kei \r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #B2-15, Serangoon Bus Interchange, 20 Serangoon Avenue 2, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876909,
+          1.353392
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nYaowarat Seafood \r\nASIAN • INDOCHINESE • SEAFOOD • THAI\r\nADDRESS: 27 Teck Chye Terrace, 545729\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMr Bean (Nex) \r\nDESSERTS • SNACKS\r\nADDRESS: #B2-48, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8663739,
+          1.364548
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nB.B.Q \r\nBARBECUE • SEAFOOD\r\nADDRESS: Stall 1, Chomp Chomp Food Centre, 20 Kensington Park Road, 557269\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870085,
+          1.354141
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSpice & Everything Nice \r\nASIAN • INDIAN • SOUTH INDIAN\r\nADDRESS: #01-130, 237 Serangoon Ave 3, 550237\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nLee Wee & Brothers' Foodstuff (Nex) \r\nASIAN • CHINESE • HALAL • SNACKS\r\nADDRESS: #03-K11, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": " \r\n1 Vote\r\nShokutsu 10 (Nex) \r\nASIAN • JAPANESE\r\nADDRESS: #B1-K1/02/03/04/78/79/80, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.872411,
+          1.369972
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nXiao Di Hokkien Mee \r\nASIAN • HOKKIEN • LOCAL\r\nADDRESS: Guan Hock Tiong Eating House, 153 Serangoon North Avenue 1, 550153\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.866835,
+          1.363381
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nTan Soon Mui Beancurd \r\nASIAN • CHINESE • DESSERTS • FRUITS & DRINKS\r\nADDRESS: #01-41, Serangoon Garden Market and Food Centre, 49A Serangoon Garden Way, 555945\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSubway (Nex) \r\nAMERICAN • SNACKS • WESTERN\r\nADDRESS: #02-11, Serangoon Bus Interchange, 20 Serangoon Avenue 2, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873231,
+          1.352512
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMookata \r\nASIAN • INDOCHINESE • THAI\r\nADDRESS: #1-104, Hdb-chuan Estate, 204 Serangoon Central, 550204\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.875584,
+          1.3506689
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nBee Kee Wanton Noodles (Lorong Liew Lian) \r\nASIAN • CHINESE\r\nADDRESS: Stall 5, Cheun Kee Kopitiam, 2 Lorong Lew Lian, 531002\r\n",
+        "vote": "90%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nQQ Rice (Nex) \r\nASIAN • TAIWANESE\r\nADDRESS: #B2-48B, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876971,
+          1.353446
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nAh Seah Teochew Porridge (Teck Chye Terrace)\r\nASIAN • CHINESE • TEOCHEW\r\nADDRESS: 31 Teck Chye Terrace, 545731\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nOsaka Ohsho (Nex) \r\nASIAN • JAPANESE\r\nADDRESS: #03-06/07, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nFancy Delight (Nex) \r\nSNACKS\r\nADDRESS: #03-K21, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nShihlin Taiwan Street Snacks (Nex) \r\nASIAN • CHINESE • SNACKS • TAIWANESE\r\nADDRESS: #03-K12, Nex, 23 Serangoon Central, 566083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPie Face (Nex) \r\nAUSTRALIAN • WESTERN\r\nADDRESS: #B2-49A, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nOld Kim Guan (Nex) \r\nASIAN • CHINESE\r\nADDRESS: #01-58, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nA One Claypot House (Nex) \r\nASIAN • CHINESE • STEAMBOAT\r\nADDRESS: #B1-73, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86899,
+          1.3503829
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nCoffeeshop Delight \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: #01-388, 326 Serangoon Ave 3, 550326\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.878457,
+          1.354545
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nUcc Ueshima Coffee \r\nADDRESS: #01-05, Nam Peng Ctr, 767 Upper Serangoon Road, 534635\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nSo Pho (Nex) \r\nASIAN • VIETNAMESE\r\nADDRESS: #B1-15, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.890548,
+          1.367345
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nPeng Catering Services Restaurant \r\nASIAN • CHINESE • TEOCHEW • ZI CHAR\r\nADDRESS: 30 Lorong 1 Realty Park, 536953\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.871806,
+          1.350644
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nSushi Tei (Nex) \r\nASIAN • JAPANESE\r\nADDRESS: #01-08/09, Nex, 23 Serangoon Central, 556083\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.86499,
+          1.364087
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nA Han Bakes \r\nASIAN • DESSERTS • WESTERN\r\nADDRESS: 78A Serangoon Garden Way, 555974\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.865478,
+          1.364169
+        ]
+      },
+      "properties": {
+        "info": "105 Votes\r\nArbite \r\nEUROPEAN • WESTERN\r\nADDRESS: 66A Serangoon Garden Way, 555962\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.881565,
+          1.3450089
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nGeylang Prawn Noodle \r\nASIAN • CHINESE\r\nADDRESS: Quemoy Building, 325 Upper Paya Lebar Road, 534946\r\n",
+        "vote": "81%\r\n"
+      }
+    }
+  ]
+}

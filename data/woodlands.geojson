@@ -1,0 +1,593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.777277,
+          1.442977
+        ]
+      },
+      "properties": {
+        "info": "53 Votes\r\nHong Ji Claypot Bak Kut Teh\r\nASIAN • CHINESE • LOCAL • SINGAPOREAN\r\nADDRESS: #01-329, 19 Marsiling Lane, 730019\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.773743,
+          1.429969
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nNoelle's Signatures\r\nWESTERN\r\nADDRESS: #01-125, 304 Woodlands Street 31, 730304\r\n",
+        "vote": "97%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "23 Votes\r\nCheval\r\nFUSION • WESTERN • WINE\r\nADDRESS: Singapore Turf Club Riding Centre, 10 Woodlands Avenue 3, 739045\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.784053,
+          1.442321
+        ]
+      },
+      "properties": {
+        "info": "34 Votes\r\nSakura International Buffet Restaurant (Admiralty)\r\nASIAN • HALAL • INTERNATIONAL • JAPANESE\r\nADDRESS: Admiralty Park, 31 Riverside Road, 739087\r\n",
+        "vote": "68%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787061,
+          1.442982
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nThe Reel Room\r\nWESTERN\r\nADDRESS: Republic Polytechnic Library, 27 Woodlands Ave 9, 737909\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\r\nRasa Istimewa Woodlands Waterfront Restaurant\r\nHALAL • SEAFOOD • WESTERN\r\nADDRESS: Woodlands Waterfront Park, 6A Admiralty Road West, 757445\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nSoup Restaurant (Causeway Point)\r\nASIAN • CHINESE\r\nADDRESS: #03-01, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.779376,
+          1.434622
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nCitrus By The Pool (Woodlands Street)\r\nEUROPEAN • MEDITERRANEAN • WESTERN\r\nADDRESS: 3 Woodlands Street 13, 738600\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "22 Votes\r\nGelare Cafe (Causeway Point) \r\nWESTERN\r\nADDRESS: #03-K06/K08, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "59%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nHot Tomato Cafe & Grill (Causeway Point) \r\nAMERICAN • WESTERN\r\nADDRESS: #02-11, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "63%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79392,
+          1.430554
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\n38 Soya Bean (Vista Point) \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: #01-01, Vista Point, 548 Woodlands Drive 44, 730548\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.773833,
+          1.446698
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nWonderful Taiwan Delights \r\nASIAN • CHINESE • TAIWANESE\r\nADDRESS: #01-01/03, 210 Marsiling Crescent, 730210\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.785053,
+          1.432385
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nIvan's Carbina \r\nWESTERN\r\nADDRESS: #01-01, Lucky Star Coffeeshop, 354a Woodlands Avenue 5, 730354\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nEmpire State (Causeway Point) \r\nAMERICAN • ASIAN • SNACKS • WESTERN\r\nADDRESS: #02-10/K10, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "61%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\r\nSunlife Durian Puffs & Pastries (Causeway Point)\r\nADDRESS: #B1-K10, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nPastaMania (Causeway Point) \r\nEUROPEAN • HALAL • ITALIAN • PIZZA • WESTERN\r\nADDRESS: #B1-20, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770856,
+          1.440772
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nRasa Rasa Thai Seafood Restaurant (Woodlands Centre)\r\nASIAN • HALAL • INDOCHINESE • THAI\r\nADDRESS: #01-118, 2A Woodlands Centre Road, 731002\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.760383,
+          1.37978
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nTian Wang Soya Beancurd and Dessert Specialist\r\nFRUITS & DRINKS\r\nADDRESS: #01-04, Junction 10, 1 Woodlands Road, 677899\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.808998,
+          1.451362
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nHappy Fish Soup \r\nASIAN • CHINESE\r\nADDRESS: Song Heng Eating House, 17 Woodlands Link, 738727\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.760383,
+          1.37978
+        ]
+      },
+      "properties": {
+        "info": "30 Votes\r\nPorn's (Junction 10) \r\nASIAN • THAI\r\nADDRESS: #01-32, Junction 10, 1 Woodlands Road, 677899\r\n",
+        "vote": "43%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nYoshinoya (Causeway Point) \r\nASIAN • JAPANESE\r\nADDRESS: #01-12, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nLong John Silver's (Causeway Point) \r\nAMERICAN • HALAL • WESTERN\r\nADDRESS: #01-38/39, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nMcDonald's (Causeway Point) \r\nAMERICAN • DESSERTS • HALAL • SNACKS • WESTERN\r\nADDRESS: #B1-35, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79527,
+          1.437703
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\n888 Foodcourt \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: #01-755, 888 Plaza, 888 Woodlands Drive 50, 730888\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nMOS Burger (Causeway Point) \r\nASIAN • JAPANESE • WESTERN\r\nADDRESS: #01-13, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nOld Chang Kee (Causeway Point) \r\nASIAN • CHINESE • HALAL • JAPANESE • LOCAL • MORE\r\nADDRESS: #01-K11, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\r\nParadise Dynasty (Causeway Point) \r\nASIAN • CHINESE • DESSERTS • SHANGHAINESE • SICHUAN\r\nADDRESS: #05-16/17/18, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850074,
+          1.29133
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nBishamon Saporro Ramen (Funan DigitaLife Mall)\r\nASIAN • JAPANESE\r\nADDRESS: #01-18, Funan DigitaLife Mall, 109 North Bridge Road, 179097\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787195,
+          1.435152
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nJack's Place Steak House & Restaurant (Woodlands Civic Centre)\r\nAMERICAN • WESTERN\r\nADDRESS: #02-05/06, Woodlands Civic Centre, 900 South Woodlands Drive, 730900\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nIchiban Bento (Causeway Point) \r\nASIAN • JAPANESE\r\nADDRESS: #B1-17 inside Kuriya Japanese Fresh Fish Markets, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nYami Yogurt (Causeway Point) \r\nDESSERTS • WESTERN\r\nADDRESS: #B1-K22, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.777745,
+          1.4442489
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nYuan Chicken Rice \r\nCHINESE\r\nADDRESS: #01-37, Marsiling Lane Food Centre, 20 Marsilling Lane, 730020\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7979299,
+          1.417355
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nOrchidville New Forrest Restaurant \r\nASIAN • CHINESE • LOCAL • SINGAPOREAN\r\nADDRESS: Mandai Agrotechnology Park, 10 Lorong Lada Hitam, 778793\r\n",
+        "vote": "60%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\r\nAjisen (Causeway Point) \r\nASIAN • JAPANESE\r\nADDRESS: #B1-18, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "63%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787195,
+          1.435152
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nRestaurant Hoshigaoka (Woodlands Civic Centre)\r\nASIAN • JAPANESE\r\nADDRESS: #02-05, Woodlands Civic Centre, 900 South Woodlands Drive, 730900\r\n",
+        "vote": "44%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.791101,
+          1.440027
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\n834 Eating House \r\nCHINESE • LOCAL\r\nADDRESS: #01-89, 834 Woodlands Street 83, 730834\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nHong Kong Sheng Kee Dessert (Causeway Point)\r\nASIAN • CHINESE • DESSERTS\r\nADDRESS: #B1-24, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.798159,
+          1.445962
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nKoufu (Woodlands Mart) \r\nADDRESS: #01-30, Woodlands Mart, 768 Woodlands Ave 6, 730768\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7927459,
+          1.452053
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\n180 Fish Head Steamboat \r\nASIAN • CHINESE • SEAFOOD\r\nADDRESS: #01-01, Woodlands Auto Hub, 180 Woodlands Industrial Park E5, 757512\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.809077,
+          1.448591
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSoon Eastern Restaurant \r\nASIAN • CHINESE\r\nADDRESS: #04-55, 15 Woodlands Loop, 738322\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.786222,
+          1.435855
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nThe Icing Room (Causeway Point) \r\nDESSERTS • SNACKS\r\nADDRESS: #B1-K08, Causeway Point, 1 Woodlands Square, 738099\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7749,
+          1.439545
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nYan Ji Seafood Soup (Woodlands) \r\nASIAN • CHINESE\r\nADDRESS: #02-11, 4 Marsiling Road, 730004\r\n",
+        "vote": "100%\r\n"
+      }
+    }
+  ]
+}

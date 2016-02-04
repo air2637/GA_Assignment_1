@@ -1,0 +1,873 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766292,
+          1.303843
+        ]
+      },
+      "properties": {
+        "info": "45 Votes\r\nWest Co'z Cafe (West Coast Plaza)\r\nASIAN • CHINESE • HALAL • LOCAL • SINGAPOREAN • MORE\r\nADDRESS: #02-13/14/15/16/17/18/19/20/21/22/23, West Coast Plaza, 154 West Coast Road, 127371\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767503,
+          1.323497
+        ]
+      },
+      "properties": {
+        "info": "68 Votes\r\nThe Daily Scoop (Sunset Way)\r\nDESSERTS • WESTERN\r\nADDRESS: #01-04, Clementi Arcade, 41 Sunset Way, 597071\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770591,
+          1.322296
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nSwisslink Bakery & Cafe (Clementi)\r\nSNACKS\r\nADDRESS: #01-07, 109 Clementi Street 11, 120109\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79996,
+          1.307011
+        ]
+      },
+      "properties": {
+        "info": "126 Votes\r\nTwo Chefs Eating Place (Commonwealth)\r\nASIAN • CANTONESE • CHINESE • ZI CHAR\r\nADDRESS: #01-129, 116 Commonwealth Crescent, 140116\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7623629,
+          1.308596
+        ]
+      },
+      "properties": {
+        "info": "36 Votes\r\nW39 Bistro & Bakery\r\nEUROPEAN • MEDITERRANEAN • SPANISH • WESTERN\r\nADDRESS: 39 Jalan Mas Puteh, 128637\r\n",
+        "vote": "94%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766292,
+          1.303843
+        ]
+      },
+      "properties": {
+        "info": "66 Votes\r\nFish Mart Sakuraya (West Coast Plaza)\r\nASIAN • JAPANESE\r\nADDRESS: #B1-50/51/52, West Coast Plaza, 154 West Coast Road, 127371\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.768505,
+          1.336469
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nLynn's Cakes\r\nASIAN • DESSERTS • EUROPEAN • ITALIAN • LOCAL • MORE\r\nADDRESS: 11 Eng Kong Terrace, 598983\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765158,
+          1.314319
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nPasta Box (Clementi)\r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: #01-09, CityVibe, 3151 Commonwealth Avenue West, 129581\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765368,
+          1.313578
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nGolden Rooster (Clementi) \r\nASIAN • LOCAL • SINGAPOREAN • SNACKS • WESTERN\r\nADDRESS: #01-305, Varinice Eating House, 450 Clementi Ave 3, 120450\r\n",
+        "vote": "77%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nXi De Li (Clementi) \r\nASIAN • CHINESE • LOCAL • SNACKS\r\nADDRESS: #01-39, Clementi 448 Market, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.793667,
+          1.337685
+        ]
+      },
+      "properties": {
+        "info": "50 Votes\r\nGrill-Out! \r\nAMERICAN • STEAK AND GRILLS • WESTERN\r\nADDRESS: #01-08, The Grandstand, 200 Turf Club Road, 287994\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.769975,
+          1.321952
+        ]
+      },
+      "properties": {
+        "info": "36 Votes\r\nButtercake n Cream \r\nBEER • ENGLISH • EUROPEAN • FUSION • ITALIAN • MORE\r\nADDRESS: #01-52, Sunset Way, 106 Clementi Street 12, 120106\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767503,
+          1.323497
+        ]
+      },
+      "properties": {
+        "info": "35 Votes\r\nBather's Cafe & Restaurant \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: #01-03, Clementi Arcade, 41 Sunset Way, 597071\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775995,
+          1.340829
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nRaw Fish Congee \r\nCHINESE\r\nADDRESS: #02-168, Bukit Timah Market and Food Centre, 116 Upper Bukit Timah Road, 588172\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75967,
+          1.31172
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nWu Ba Ye Fried Hokkien Prawn Mee \r\nCHINESE\r\nADDRESS: #01-43, Ayer Rajah Food Centre, Blk 503 West Coast Drive, 120503\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.762822,
+          1.302349
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nAh Hoe Mee Pok \r\nASIAN • JAPANESE\r\nADDRESS: Hdb-clementi, 716 Clementi West Street 2, 120716\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nHup Heng Cafe \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-22, Clementi 448 Market & Food Centre, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nNam Kee Fried Prawn Noodle \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-12, Clementi 448 Market & Food Centre, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764132,
+          1.303831
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSoon Heng Fish Ball Noodles \r\nCHINESE\r\nADDRESS: #01-152, Blk 726 Clementi West Market and Food Centre, Blk 726 Clementi West Street 2, 120726\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764132,
+          1.303831
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTiong Bahru Fried Fish Ball \r\nCHINESE • SNACKS\r\nADDRESS: #01-141, Blk 726 Clementi West Market and Food Centre, Blk 726 Clementi West Street 2, 120726\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765158,
+          1.314319
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nLao Ban Soya Beancurd (City Vibe) \r\nASIAN • CHINESE • DESSERTS • FRUITS & DRINKS\r\nADDRESS: Level 1, City Vibe, 3151 Commonwealth Ave West, 129581\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775289,
+          1.34268
+        ]
+      },
+      "properties": {
+        "info": "11 Votes\r\nStirling \r\nWESTERN\r\nADDRESS: 15 Cheong Chin Nam Road, 599739\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.769975,
+          1.321952
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSticks & Wings \r\nASIAN\r\nADDRESS: #01-44, Sunset Way Residence, 106 Clementi Street 12, 120106\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSiti Laila Muslim Food \r\nASIAN • LOCAL • MALAY • SNACKS\r\nADDRESS: #01-05, Clementi 448 Market & Food Centre, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nYong Fa Hainanese Curry Rice & Curry Fish Head\r\nASIAN • CHINESE • MEXICAN • SEAFOOD\r\nADDRESS: #01-23, Clementi 448 Market & Food Centre, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75967,
+          1.31172
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nWest Coast BBQ Seafood (Ikan Bakar) \r\nBARBECUE • CHINESE • SEAFOOD • SNACKS\r\nADDRESS: #01-24, Ayer Rajah Food Centre, Blk 503 West Coast Drive, 120503\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.772471,
+          1.332823
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nCupplets \r\nDESSERTS\r\nADDRESS: #01-03, Ngee Ann Polytechnic, 16 Clementi Road, 599489\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.778992,
+          1.320431
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nThe French Ladle \r\nDESSERTS • EUROPEAN • FRENCH\r\nADDRESS: #01-206, Pandan Valley Condominium, 2 Pandan Valley, 597626\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nTanglin Halt Westen Food \r\nWESTERN\r\nADDRESS: #01-20, 448 Clementi Ave 3, 120448\r\n",
+        "vote": "77%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770005,
+          1.322642
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nBalmoral Bakery \r\nDESSERTS • WESTERN\r\nADDRESS: #01-06, 105 Clementi Street 12, 120105\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764914,
+          1.313385
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nBrothers Rojak \r\nASIAN • LOCAL • SINGAPOREAN • SNACKS\r\nADDRESS: #01-211, See Lam Hern Coffeeshop, 449 Clementi Ave 3, 120449\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.756683,
+          1.320384
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nBuck Tile St. Cafe \r\nDESSERTS • WESTERN\r\nADDRESS: Faber Hills, 104 Faber Drive, 129412\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764019,
+          1.314195
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nJoyful Palace \r\nASIAN • CHINESE\r\nADDRESS: Food Loft, 443 Clementi Avenue 3, 120443\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766292,
+          1.303843
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\r\nRoti - Alka's Kitchen \r\nASIAN • INDIAN • NORTH INDIAN • VEGETARIAN\r\nADDRESS: #B1-22/23, West Coast Plaza, 154 West Coast Road, 127371\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nFried Oyster, Fried Oyster Egg \r\nCHINESE • SNACKS\r\nADDRESS: #01-22, Clementi Avenue 3 Food Centre, Blk 448 Clementi Ave 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764132,
+          1.303831
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nHeng Heng Boneless Duck Rice \r\nCHINESE\r\nADDRESS: #01-171, Blk 726 Clementi West Market and Food Centre, Blk 726 Clementi West Street 2, 120726\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.778958,
+          1.339001
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nZzang Korean Food \r\nASIAN • KOREAN\r\nADDRESS: #02-K46, Bukit Timah Plaza, 1 Jalan Anak Bukit, 588996\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nFried Carrot Cake \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-45, Clementi 448 Market & Food Centre, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764132,
+          1.303831
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSlice Fish, Fish Head, Seafood Soup \r\nCHINESE\r\nADDRESS: #01-138, Blk 726 Clementi West Market and Food Centre, Blk 726 Clementi West Street 2, 120726\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nKian Seng \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-28, Clementi 448 Market & Food Centre, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775995,
+          1.340829
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nAWee Nonya Kitchen \r\nASIAN\r\nADDRESS: #02-156, Bukit Timah Hawker Center, 116 Upper Bukit Timah Road, 588172\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764237,
+          1.302451
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nFu Shan Seafood \r\nSEAFOOD\r\nADDRESS: #01-100, 721 Clementi West Street 2, 120721\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765083,
+          1.311933
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nWimi Ice Cream \r\nDESSERTS\r\nADDRESS: #01-13, 321 Clementi, 321 Clementi Avenue 3, 129905\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.768009,
+          1.33645
+        ]
+      },
+      "properties": {
+        "info": "31 Votes\r\nNecessary Provisions \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: Eng Kong Park, 21 Eng Kong Terrace, 598993\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.773134,
+          1.340981
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nRevelry \r\nAMERICAN • DESSERTS\r\nADDRESS: #01-02, Sun Court, 21 Lorong Kilat, 598123\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7643563,
+          1.3150108
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nSeoul Garden (The Clementi Mall) \r\nASIAN • KOREAN\r\nADDRESS: #05-18/19/20, The Clementi Mall, 3155 Commonwealth Avenue West, 129588\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75967,
+          1.31172
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nShenton Way Power Stall \r\nCHINESE • INDIAN\r\nADDRESS: #01-55, Ayer Rajah Food Centre, Blk 503 West Coast Drive, 120503\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTeochew Fishball \r\nASIAN • CHINESE • LOCAL • TEOCHEW\r\nADDRESS: #01-15, Clementi 448 Market & Food Centre, 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.75967,
+          1.31172
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nBoombastic Penyet \r\nASIAN • CHINESE • HALAL • INDONESIAN • MALAY • MORE\r\nADDRESS: Stall 29, Ayer Rajah Food Centre, Blk 503 West Coast Drive, 120503\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764506,
+          1.313218
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nSoon Lee \r\nCHINESE\r\nADDRESS: #01-26, Clementi Avenue 3 Food Centre, Blk 448 Clementi Avenue 3, 120448\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763716,
+          1.304455
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nChar-Grill Bar (Clementi West Street 2) \r\nAMERICAN • FRENCH • ITALIAN • WESTERN\r\nADDRESS: #01-294, 727 Clementi West Street 2, 120727\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764132,
+          1.303831
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPing Ping Kway Chap & Pig's Organ Soup \r\nCHINESE\r\nADDRESS: #01-157, Blk 726 Clementi West Market and Food Centre, Blk 726 Clementi West Street 2, 120726\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.768402,
+          1.303445
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nZulos Churros \r\nDESSERTS • SNACKS • WESTERN\r\nADDRESS: #01-288, Hdb-clementi, 612 Clementi West Street 1, 120612\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.787413,
+          1.296902
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nHabib's Rojak \r\nINDIAN • SNACKS\r\nADDRESS: #01-68, Ayer Rajah Food Centre, 503 West Coast Drive, 139957\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.766757,
+          1.315245
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nThe 2 Cooks \r\nEUROPEAN • WESTERN\r\nADDRESS: #01-155, 325 Clementi Avenue 5, 120325\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.754985,
+          1.316494
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nYang Kee Pure Soup \r\nASIAN • CHINESE\r\nADDRESS: #01-294, Bgain 727 Eating House, 727 Clementi West Street, 127627\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.764132,
+          1.303831
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSan Yuan Vegetarian \r\nASIAN • CHINESE • LOCAL • VEGETARIAN\r\nADDRESS: #01-149, Blk 726 Clementi West Market and Food Centre, Blk 726 Clementi West Street 2, 120726\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.769975,
+          1.321952
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nRocky's Restaurant \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: #01-60, 106 Clementi Street 12, 120106\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.796626,
+          1.345705
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nRoyal Thai \r\nASIAN • THAI\r\nADDRESS: 60 Fairways Drive, 286966\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.767503,
+          1.323497
+        ]
+      },
+      "properties": {
+        "info": "17 Votes\r\nClassic Cakes \r\nADDRESS: #01-06, Clementi Arcade, 41 Sunset Way, 597071\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.773614,
+          1.340965
+        ]
+      },
+      "properties": {
+        "info": "17 Votes\r\nCarpenter and Cook (Lorong Kilat) \r\nDESSERTS\r\nADDRESS: #01-06, 19 Lorong Kilat, 598120\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770005,
+          1.322642
+        ]
+      },
+      "properties": {
+        "info": "35 Votes\r\nChin Huat Live Seafood (Clementi) \r\nASIAN • CHINESE • SEAFOOD\r\nADDRESS: #01-30, 105 Clementi Street 12 (Sunset Way), 120105\r\n",
+        "vote": "63%\r\n"
+      }
+    }
+  ]
+}

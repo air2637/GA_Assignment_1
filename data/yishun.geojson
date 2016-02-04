@@ -1,0 +1,1055 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837441,
+          1.4272959
+        ]
+      },
+      "properties": {
+        "info": "72 Votes\r\n928 Yishun Laksa\r\nASIAN • LOCAL • PERANAKAN\r\nADDRESS: #01-155, 928 Yishun Central 1, 760928\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826071,
+          1.426914
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMcDonald's (Yishun)\r\nAMERICAN • DESSERTS • HALAL • SNACKS • WESTERN\r\nADDRESS: #01-01, Sembawang Cottage, 369 Sembawang Road, 758382\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846319,
+          1.424411
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nKim San Leng Food Centre (Yishun)\r\nASIAN • CHINESE\r\nADDRESS: #01-351, 417 Yishun Avenue 11, 760417\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836348,
+          1.4300139
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nArnold's Fried Chicken (Yishun)\r\nHALAL • WESTERN\r\nADDRESS: #01-04, Yishun 10 Cinema Cineplex, 51 Yishun Central 1, 768794\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833507,
+          1.4319519
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nCoba Coba\r\nASIAN • HALAL • INDOCHINESE\r\nADDRESS: #01-106, Hdb-yishun, 156 Yishun Street 11, 760156\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831389,
+          1.4168099
+        ]
+      },
+      "properties": {
+        "info": "50 Votes\r\nBaker's Creations (Yishun Ring Road)\r\nADDRESS: #01-4209, 807 Yishun Ring Road, 760807\r\n",
+        "vote": "70%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835008,
+          1.41499
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nBuddy Hoagies (Yishun)\r\nSTEAK AND GRILLS • WESTERN\r\nADDRESS: Nee Soon South Community Club, 30 Yishun Street 81, 768455\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83803,
+          1.434925
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nChez Rose Bakery\r\nADDRESS: #01-466, Blk 233 Yishun St 21, 760233\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83803,
+          1.434925
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nNakhon Kitchen (Yishun St 21) \r\nASIAN • INDOCHINESE • THAI\r\nADDRESS: Hdb-yishun, 233 Yishun Street 21, 760233\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nShami Banana Leaf Delights (Northpoint) \r\nASIAN • INDIAN\r\nADDRESS: #B2-10, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836348,
+          1.4300139
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nBurger Up (Golden Village - Yishun Ten) \r\nAMERICAN • WESTERN\r\nADDRESS: #01-03, Golden Village - Yishun Ten, 51 Yishun Central 1, 768794\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825625,
+          1.425734
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nNasi Ambeng Mak Uda \r\nASIAN\r\nADDRESS: 343 Sembawang Road, 758353\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSubway (Northpoint) \r\nAMERICAN • SNACKS • WESTERN\r\nADDRESS: #B2-15/16, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSoya Bean.Jelly Bean \r\nCHINESE • DESSERTS • FRUITS & DRINKS\r\nADDRESS: #01-136, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nBee Kee Cooked Food \r\nCHINESE • SNACKS\r\nADDRESS: #01-144, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nEAT. (Northpoint) \r\nASIAN • CHINESE\r\nADDRESS: #B2-04//0506, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8362269,
+          1.421807
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nA&C Braised Duck Kway Chap \r\nASIAN • CHINESE\r\nADDRESS: #01-309, 605 Yishun street 61, 760605\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nThe French Table (Northpoint) \r\nEUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-44, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.828388,
+          1.4317629
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nJi De Lai Hainanese Chicken Rice \r\nASIAN • CHINESE\r\nADDRESS: Chong Pang Market Food Centre, 104 Yishun Ring Road, 760104\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTian Ji Shu Shi \r\nASIAN • CHINESE • SNACKS\r\nADDRESS: #01-141, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nWarong Penyet Super \r\nCHINESE • MALAY • MALAYSIAN\r\nADDRESS: #01-170, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832886,
+          1.419727
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSin Lian Huat Coffee Shop \r\nCHINESE • LOCAL\r\nADDRESS: #01-3390, 795A Yishun Ring Road, 761795\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838436,
+          1.4237979
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nNTUC Foodfare (Yishun Central) \r\nASIAN • CHINESE • DESSERTS • FILIPINO • FRUITS & DRINKS • MORE\r\nADDRESS: #01-12, Khoo Teck Puat Hospital, 90 Yishun Central, 768828\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846593,
+          1.424554
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nBroadway Food Centre \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: #01-1871, 414 Yishun Ring Road, 760414\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nShareTea (Northpoint) \r\nASIAN • CHINESE • TAIWANESE\r\nADDRESS: #B1-04, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nHeng Huat Kee Chicken / Duck Rice, Noodle \r\nCHINESE\r\nADDRESS: #01-155, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837441,
+          1.4272959
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nLit Lit Sin Popiah \r\nASIAN • SNACKS\r\nADDRESS: 928 Yishun Central 1, 760928\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.836348,
+          1.4300139
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSweet Tornado \r\nASIAN • CHINESE\r\nADDRESS: #01-01, Golden Village Yishun, 51 Yishun Central 1, 768794\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829633,
+          1.412975
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nLong Jiang Chinos \r\nASIAN • CHINESE • SEAFOOD\r\nADDRESS: #01-07, Orto, 81 Lorong Chencharu, 769198\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833507,
+          1.4319519
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nWang Wang Local Delight \r\nASIAN • CHINESE\r\nADDRESS: #01-122, 156 Eating House, 156 Yishun Street 11, 760156\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nLao Ban Soya Beancurd (Chong Pang Market & Food Centre)\r\nASIAN • CHINESE • DESSERTS • FRUITS & DRINKS\r\nADDRESS: #01-167, Chong Pang Market & Food Centre, 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTwenty 1st Century Old Chong Pang Guo Tiao \r\nCHINESE • SNACKS\r\nADDRESS: #01-139, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nGuan Heng Cooked Food \r\nCHINESE • SNACKS\r\nADDRESS: #01-146, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8372009,
+          1.437003
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nHoly Cow Creamery \r\nDESSERTS • WESTERN\r\nADDRESS: #01-291, 292 Yishun Street 22, 760292\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826504,
+          1.428691
+        ]
+      },
+      "properties": {
+        "info": "41 Votes\r\nChong Pang Nasi Lemak \r\nASIAN • CHINESE\r\nADDRESS: Sembawang Park, 447 Sembawang Road, 758404\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829633,
+          1.412975
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nTaste Garden \r\nHALAL • LOCAL • MODERN EUROPEAN\r\nADDRESS: #01-02/03, Orto, 81 Lorong Chencharu, 769198\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.829386,
+          1.431141
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMcdonald's (Chong Pang CC) \r\nAMERICAN • HALAL • WESTERN\r\nADDRESS: #01-01, Chong Pang Community Club, 21 Yishun Ring Road, 768677\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839015,
+          1.434065
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nZi Zai Vegetarian (Yishun) \r\nVEGETARIAN\r\nADDRESS: #01-1000, 236 Yishun Ring Road, 760236\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nKomala's Deli (Northpoint) \r\nASIAN • INDIAN • SOUTH INDIAN • VEGETARIAN\r\nADDRESS: #B2-10, Northpoint Shopping Centre, 930 Yishun Ave 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nHoe Soon \r\nCHINESE\r\nADDRESS: #01-158, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\r\nIshi Mura (Northpoint) \r\nASIAN • JAPANESE\r\nADDRESS: #03-47/48/49/50, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "70%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\r\nGio Gio (Northpoint) \r\nASIAN\r\nADDRESS: #B1-23, Northpoint Shopping Centre, 930 Yishun Ave 2, 769098\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nXu Zhong Xing \r\nCHINESE • SNACKS\r\nADDRESS: #01-176, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84065,
+          1.423708
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nPin Si (Safra Yishun) \r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #02-VI, Safra Yishun Country Club, 60 Yishun Ave 4, 769027\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nStarbucks (Northpoint) \r\nAMERICAN • EUROPEAN • WESTERN\r\nADDRESS: #01-07/08, Northpoint, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83756,
+          1.427567
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPontian Wanton Noodle House \r\nASIAN • CHINESE\r\nADDRESS: #01-249, 925 Yishun Central 1, 760925\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84065,
+          1.423708
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nParty World KTV (Yishun Safra) \r\nADDRESS: #01-V5, Yishun Safra Country Club, 60 Yishun Ave 4, 769027\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831715,
+          1.43468
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\n123 Eating House \r\nASIAN • CHINESE • LOCAL • SINGAPOREAN\r\nADDRESS: #01-509, 123 Yishun Street 11, 760123\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nChuan Kee Boneless Braised Duck (Chong Pang)\r\nCHINESE\r\nADDRESS: #01-159, Chong Pang Food Centre, 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831389,
+          1.4168099
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nFatt Soon Heng Eating Hse \r\nFUSION\r\nADDRESS: #01-4203, 807 Yishun Ring Road, 760807\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nKFC (Northpoint) \r\nHALAL • WESTERN\r\nADDRESS: #B1-37/38, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.825917,
+          1.421441
+        ]
+      },
+      "properties": {
+        "info": "28 Votes\r\nOrchid Live Seafood (Sembawang) \r\nASIAN • CHINESE\r\nADDRESS: No. 1 Bah Soon Pah Road, 769959\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nFour Leaves (Northpoint) \r\nSNACKS • WESTERN\r\nADDRESS: #B1-09/10, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831424,
+          1.441621
+        ]
+      },
+      "properties": {
+        "info": "95 Votes\r\nTaste of Thailand \r\nASIAN • INDOCHINESE • THAI\r\nADDRESS: #01-1001, Yishun Industrial Food Centre, 1001 Yishun Industrial Park A, 768743\r\n",
+        "vote": "56%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "51 Votes\r\nMayim Chinese Cuisine (Northpoint) \r\nASIAN • CANTONESE • CHINESE • DIM SUM • HONG KONG\r\nADDRESS: #02-01/02/03/04/05, Northpoint Shopping Centre, 930 Yishun Ave 2, 769098\r\n",
+        "vote": "69%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.826071,
+          1.426914
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nDomino's Pizza (Sembawang) \r\nAMERICAN • EUROPEAN • HALAL • ITALIAN • WESTERN\r\nADDRESS: #01-06, Sebawang Cottage, 369 Sembawang Rd, 758382\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.805239,
+          1.460857
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nThe Daily Scoop (Sembawang) \r\nDESSERTS • WESTERN\r\nADDRESS: #01-05, 369 Sembawang Road, 758283\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nLong John Silver's (Northpoint) \r\nAMERICAN • WESTERN\r\nADDRESS: #01-14/15, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "70%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "",
+        "vote": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843691,
+          1.410939
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nVanda Terrace \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: Orchid Country Club, 1 Orchid Club Road, 769162\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837677,
+          1.418151
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nYishun Famous Teochew Porridge \r\nASIAN • CHINESE • TEOCHEW\r\nADDRESS: #01-57, 630 Yishun Street 61, 760630\r\n",
+        "vote": "60%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.833366,
+          1.427617
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nHeng Hua Restaurant \r\nASIAN • CHINESE • FUJIAN • HOKKIEN\r\nADDRESS: #01-212, 748 Yishun Street 72, 760748\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nDough Culture (Northpoint) \r\nASIAN • CHINESE • LOCAL • SINGAPOREAN • SNACKS\r\nADDRESS: #B1-18, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSincerity Vegetarian Food \r\nCHINESE • VEGETARIAN\r\nADDRESS: #01-168, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827832,
+          1.4299519
+        ]
+      },
+      "properties": {
+        "info": "56 Votes\r\nBei Sheng Seafood Restaurant \r\nASIAN • CHINESE • INDOCHINESE • SEAFOOD • THAI\r\nADDRESS: #01-02, 701A Yishun Avenue 5, 761701\r\n",
+        "vote": "59%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPrimaDeli (Northpoint) \r\nDESSERTS\r\nADDRESS: #B1-43, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834277,
+          1.416772
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMcDonald's (Khatib) \r\nAMERICAN • DESSERTS • HALAL • SNACKS • WESTERN\r\nADDRESS: #01-3669, 846 Yishun Ring Road, 760846\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843691,
+          1.410939
+        ]
+      },
+      "properties": {
+        "info": "23 Votes\r\nPeach Garden (Orchid Country Club) \r\nASIAN • CANTONESE • CHINESE • DIM SUM\r\nADDRESS: #02-35, Orchid Country Club, 1 Orchid Club Road, 769162\r\n",
+        "vote": "61%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTiong Bahru Roasted Pig Specialist (Chong Pang FC)\r\nCHINESE\r\nADDRESS: #01-145, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.834277,
+          1.416772
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nHai Sheng Carrot Cake \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-3637, New York Pizza, 846 Yishun Ring Road, 760846\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835301,
+          1.416239
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nMr Pnut (Yishun St 81) \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: #01-136, 848 Yishun Street 81, 760848\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nShihlin Taiwan Street Snacks (Northpoint) \r\nASIAN • CHINESE • SNACKS • TAIWANESE\r\nADDRESS: #B1-07, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nDessert Story (Northpoint) \r\nASIAN • CHINESE • DESSERTS\r\nADDRESS: #B1-21/22, Northpoint Shopping Centre, 930 Yishun Avenue 2, 769098\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835554,
+          1.429848
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nMen-ichi Japanese Ramen (Northpoint) \r\nASIAN • JAPANESE\r\nADDRESS: #01-22/23, Northpoint Shopping Centre, 930 Yishun Ave 2, 769098\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.827988,
+          1.431945
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nXiang Xiang \r\nCHINESE\r\nADDRESS: #01-177, Chong Pang Food Centre, Blk 105 Yishun Ring Road, 760105\r\n",
+        "vote": "67%\r\n"
+      }
+    }
+  ]
+}

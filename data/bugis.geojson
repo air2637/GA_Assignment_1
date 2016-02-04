@@ -1,0 +1,636 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "73 Votes\r\nHood Bar & Cafe\r\nBEER • WESTERN\r\nADDRESS: #05-07, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "96%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854962,
+          1.296712
+        ]
+      },
+      "properties": {
+        "info": "146 Votes\r\nSaveur (Bugis)\r\nEUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-04, Talib Court, 5 Purvis Street, 188584\r\n",
+        "vote": "76%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "68 Votes\r\nRamen Champion (Bugis+)\r\nASIAN • JAPANESE\r\nADDRESS: #04-10, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "66 Votes\r\nPoulet (Bugis+)\r\nEUROPEAN • FRENCH • WESTERN\r\nADDRESS: #04-12, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "77%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nGenki Sushi (Bugis+)\r\nASIAN • JAPANESE\r\nADDRESS: #01-13, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nWing Zone\r\nAMERICAN • HALAL • WESTERN\r\nADDRESS: #04-02, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nLaksania (Bugis+)\r\nASIAN • FUSION\r\nADDRESS: #04-04, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nGelateria Italia (Bugis+)\r\nDESSERTS • ITALIAN • WESTERN\r\nADDRESS: #01-07, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nChurro 101 Singapore (Bugis) \r\nASIAN • DESSERTS • KOREAN\r\nADDRESS: #04-01, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856879,
+          1.298179
+        ]
+      },
+      "properties": {
+        "info": "32 Votes\r\n CNY\r\nSawadee Thai Cuisine \r\nASIAN • INDOCHINESE • THAI\r\nADDRESS: #01-01, 9 Tan Quee Lan Street, 188098\r\n",
+        "vote": "97%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849316,
+          1.3001259
+        ]
+      },
+      "properties": {
+        "info": "155 Votes\r\nThe Clan Restaurant \r\nASIAN • EUROPEAN • FUSION • WESTERN\r\nADDRESS: #02-01/08, Pomo, 1 Selegie Road, 188306\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nIreland's Potato \r\nSNACKS • WESTERN\r\nADDRESS: #04-01, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nMarble Slab Creamery (Bugis+) \r\nAMERICAN • DESSERTS • SNACKS • WESTERN\r\nADDRESS: #05-02, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.853885,
+          1.299985
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nSukhothai Kitchen (Bugis) \r\nASIAN • THAI\r\nADDRESS: 52 Queen Street, 188539\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nThe Pizza Collective \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: #01-12, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859909,
+          1.301015
+        ]
+      },
+      "properties": {
+        "info": "57 Votes\r\nVintage Delicafe \r\nHALAL • WESTERN\r\nADDRESS: 66 Bussorah Street, 199479\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856559,
+          1.296485
+        ]
+      },
+      "properties": {
+        "info": "150 Votes\r\nTom's Palette \r\nDESSERTS • WESTERN\r\nADDRESS: #01-25, Shaw Leisure Gallery, 100 Beach Road, 189702\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nCoco Ichibanya (Bugis+) \r\nASIAN • JAPANESE\r\nADDRESS: #01-10, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "90%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854407,
+          1.300665
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nChicken Up (Bugis) \r\nASIAN • KOREAN\r\nADDRESS: 60 Queen Street, 188540\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8606889,
+          1.301798
+        ]
+      },
+      "properties": {
+        "info": "66 Votes\r\nYummy Punjaby \r\nASIAN • INDIAN • NORTH INDIAN\r\nADDRESS: 2 Pahang Street, 198604\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.858256,
+          1.302897
+        ]
+      },
+      "properties": {
+        "info": "23 Votes\r\nArtistry \r\nWESTERN\r\nADDRESS: 17 Jalan Pinang, 199149\r\n",
+        "vote": "96%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850834,
+          1.304213
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nLeo Cafe & Restaurant \r\nASIAN • WESTERN\r\nADDRESS: #01-19D, Albert Court, 180 Albert Street, 189971\r\n",
+        "vote": "90%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nCrystal Jade La Mian Xiao Long Bao (Bugis) \r\nASIAN • CHINESE • SHANGHAINESE\r\nADDRESS: #B1-04A/04B, Bugis Junction, 200 Victoria Street, 180021\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8593379,
+          1.303882
+        ]
+      },
+      "properties": {
+        "info": "85 Votes\r\nSymmetry \r\nAUSTRALIAN • EUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-01, 9 Jalan Kubor, 199206\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "123 Votes\r\nMa Maison Restaurant (Bugis Junction) \r\nASIAN • FUSION • JAPANESE • WESTERN\r\nADDRESS: #02-51, Bugis Junction, 200 Victoria Street, 180021\r\n",
+        "vote": "74%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854936,
+          1.300467
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nMrQ Snacks (Bugis) \r\nSNACKS\r\nADDRESS: Bugis Food Street, 4 New Bugis Street, 188868\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nKoi Cafe (Bugis+) \r\nASIAN • CHINESE • FRUITS & DRINKS • TAIWANESE\r\nADDRESS: #01-01, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.860112,
+          1.300492
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nNOX - Dine in the Dark \r\nEUROPEAN • MODERN EUROPEAN • WESTERN\r\nADDRESS: 269 Beach Road, 199546\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854043,
+          1.295791
+        ]
+      },
+      "properties": {
+        "info": "45 Votes\r\nShinji By Kanesaka (Raffles Hotel) \r\nASIAN • JAPANESE\r\nADDRESS: #02-20, Raffles Hotel, 1 Beach Road, 189673\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855256,
+          1.300997
+        ]
+      },
+      "properties": {
+        "info": "17 Votes\r\nRamen Keisuke Tonkotsu King Four Seasons (Bugis Village)\r\nASIAN • JAPANESE\r\nADDRESS: Bugis Village, 158 Rochor Road, 188433\r\n",
+        "vote": "94%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854921,
+          1.299369
+        ]
+      },
+      "properties": {
+        "info": "84 Votes\r\nPlatypus Kitchen \r\nEUROPEAN • ITALIAN • MEDITERRANEAN • WESTERN\r\nADDRESS: #01-90/91, Bugis Junction, 200 Victoria Street, 188021\r\n",
+        "vote": "77%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "11 Votes\r\nSeoul Yummy (Bugis+) \r\nASIAN • KOREAN\r\nADDRESS: #04-11, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851129,
+          1.298175
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nFine Palate Cafe \r\nEUROPEAN • FUSION • ITALIAN • WESTERN • WINE\r\nADDRESS: #01-04/05, 51 Waterloo Street, 187969\r\n",
+        "vote": "90%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854043,
+          1.295791
+        ]
+      },
+      "properties": {
+        "info": "24 Votes\r\nThe Halia (Raffles Hotel) \r\nASIAN • EUROPEAN • FUSION • WESTERN\r\nADDRESS: #01-22/23, Raffles Hotel, 1 Beach Road, 189673\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850501,
+          1.304517
+        ]
+      },
+      "properties": {
+        "info": "79 Votes\r\nNasi Lemak Kukus \r\nASIAN • BEER • MALAY\r\nADDRESS: 227 Selegie Road, 188344\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856574,
+          1.29783
+        ]
+      },
+      "properties": {
+        "info": "38 Votes\r\nJi De Chi (Liang Seah St) \r\nASIAN • CHINESE • DESSERTS • LOCAL • NONYA • MORE\r\nADDRESS: #01-03, Liang Seah Court, 8 Liang Seah Street, 189029\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.859796,
+          1.302176
+        ]
+      },
+      "properties": {
+        "info": "44 Votes\r\nBox n Sticks \r\nASIAN • BEER • JAPANESE\r\nADDRESS: 28 Kandahar Street, 198889\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854921,
+          1.299369
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nStuff'd (Bugis Junction) \r\nLATIN AMERICAN • MEXICAN • MIDDLE EASTERN • TURKISH\r\nADDRESS: #B1-K7, Bugis Junction, 200 Victoria Street, 188021\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nC-Jade HK Cafe (Bugis) \r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #04-05, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.862594,
+          1.305194
+        ]
+      },
+      "properties": {
+        "info": "74 Votes\r\nHill Street Tai Hwa Pork Noodles \r\nASIAN • CHINESE • LOCAL • SINGAPOREAN\r\nADDRESS: #01-12, Tai Hwa Eating House, 466 Crawford Lane, 190465\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854302,
+          1.299629
+        ]
+      },
+      "properties": {
+        "info": "30 Votes\r\nThe Manhattan Fish Market (Bugis+) \r\nAMERICAN • HALAL • SEAFOOD • WESTERN\r\nADDRESS: #04-07, Bugis+, 201 Victoria Street, 188067\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851683,
+          1.297314
+        ]
+      },
+      "properties": {
+        "info": "150 Votes\r\nFood For Thought (Queen Street) \r\nFUSION • WESTERN\r\nADDRESS: 8 Queen Street, 188535\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854043,
+          1.295791
+        ]
+      },
+      "properties": {
+        "info": "164 Votes\r\nRoyal China at Raffles \r\nASIAN • CANTONESE • CHINESE • DIM SUM • SEAFOOD\r\nADDRESS: Raffles Hotel Arcade, 1 Beach Road, 189673\r\n",
+        "vote": "74%\r\n"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851676,
+          1.295262
+        ]
+      },
+      "properties": {
+        "info": "33 Votes\r\nGyu-Kaku Japanese BBQ Restaurant (Chijmes) \r\nASIAN • JAPANESE\r\nADDRESS: #01-01/03, Chijmes, 30 Victoria Street, 187996\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8597,
+          1.302321
+        ]
+      },
+      "properties": {
+        "info": "70 Votes\r\nMaison Ikkoku Cocktail Bar \r\nASIAN • BEER • JAPANESE • WESTERN • WINE\r\nADDRESS: Level 2, 20 Kandahar Street, 198885\r\n",
+        "vote": "79%\r\n"
+      }
+    }
+  ]
+}

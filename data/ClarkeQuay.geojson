@@ -1,0 +1,775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845707,
+          1.289943
+        ]
+      },
+      "properties": {
+        "info": "55 Votes\r\nHai Di Lao (Clarke Quay)\r\nASIAN • CHINESE • SEAFOOD • SICHUAN • STEAMBOAT\r\nADDRESS: #02-04, Clarke Quay, 3D River Valley Road, 179023\r\n",
+        "vote": "96%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845262,
+          1.291028
+        ]
+      },
+      "properties": {
+        "info": "17 Votes\r\nBeer Market (Clarke Quay)\r\nAMERICAN • ASIAN • FUSION • HOKKIEN • INTERNATIONAL\r\nADDRESS: #01-17 & #02-02, Clarke Quay, 3B River Valley Road, 179021\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852879,
+          1.293196
+        ]
+      },
+      "properties": {
+        "info": "108 Votes\r\nJAAN\r\nEUROPEAN • FRENCH • WESTERN\r\nADDRESS: Level 70, Equinox Complex, Swissotel The Stamford, 2 Stamford Road, 178882\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.850319,
+          1.292896
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nEast 8 New York Fusion Tapas + Bar\r\nASIAN • FUSION\r\nADDRESS: #01-21/22, Grand Park City Hall, 10 Coleman Street, 179809\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8498989,
+          1.286216
+        ]
+      },
+      "properties": {
+        "info": "82 Votes\r\nDallas Restaurant & Bar (Boat Quay)\r\nAMERICAN • WESTERN • WINE\r\nADDRESS: 31 Boat Quay, 049820\r\n",
+        "vote": "84%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "40 Votes\r\nTampopo Deli (Liang Court)\r\nASIAN • JAPANESE\r\nADDRESS: #B1-15/16/17/18, Liang Court, 177 River Valley Road, 179030\r\n",
+        "vote": "95%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849448,
+          1.294624
+        ]
+      },
+      "properties": {
+        "info": "127 Votes\r\nLe Bistrot du Sommelier\r\nEUROPEAN • FRENCH • WESTERN\r\nADDRESS: 53 Armenian Street, 179940\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844843,
+          1.290373
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nButchers Club Burger Singapore\r\nDRINKS • WESTERN\r\nADDRESS: #01-01B, Clarke Quay, 3A River Valley Road, 179020\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846205,
+          1.290668
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nCATCH BEER & BATTER \r\nBEER • DRINKS • WESTERN\r\nADDRESS: #01-01-A, Clarke Quay, 3E River Valley Road, 179024\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845707,
+          1.289943
+        ]
+      },
+      "properties": {
+        "info": "17 Votes\r\nShuffle (Clarke Quay) \r\nASIAN • BEER • EUROPEAN • ITALIAN • LOCAL • MORE\r\nADDRESS: #02-03, Clarke Quay, 3D River Valley Road, 179023\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846694,
+          1.288424
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSaigon Baguette (Clarke Quay Central) \r\nASIAN • INDOCHINESE • VIETNAMESE\r\nADDRESS: #01-58/59, The Central, 6 Eu Tong Sen Street, 059817\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846694,
+          1.288424
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\n CNY\r\nShabu Sai (Central Clarke Quay) \r\nASIAN • FUSION • JAPANESE\r\nADDRESS: #02-17, The Central, 6 Eu Tong Sen Street, 059817\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "137 Votes\r\nTampopo (Liang Court) \r\nASIAN • JAPANESE\r\nADDRESS: #01-23/24, Liang Court, 177 River Valley Road, 179030\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84883,
+          1.296892
+        ]
+      },
+      "properties": {
+        "info": "77 Votes\r\nFLUTES Restaurant.Bar \r\nEUROPEAN • MODERN EUROPEAN • WINE\r\nADDRESS: The National Museum of Singapore, 93 Stamford Road, 178897\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846205,
+          1.290668
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nMcGettigan's \r\nEUROPEAN • IRISH • WESTERN\r\nADDRESS: Clarke Quay, 3E River Valley Road, 179024\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840551,
+          1.291438
+        ]
+      },
+      "properties": {
+        "info": "91 Votes\r\nLaurent's Cafe & Chocolate Bar (Robertson Quay)\r\nDESSERTS • EUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-11, The Pier at Robertson Quay, 80 Mohammad Sultan Road, 239013\r\n",
+        "vote": "65%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840551,
+          1.291438
+        ]
+      },
+      "properties": {
+        "info": "124 Votes\r\nBRUSSELS SPROUTS (Robertson Quay) \r\nBELGIAN • EUROPEAN • WESTERN\r\nADDRESS: #01-12, The Pier, 80 Mohamed Sultan Road, 239013\r\n",
+        "vote": "69%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844843,
+          1.290373
+        ]
+      },
+      "properties": {
+        "info": "23 Votes\r\n CNY\r\nPeony Jade Restaurant (Clarke Quay) \r\nASIAN • CANTONESE • CHINESE • DIM SUM • SICHUAN\r\nADDRESS: #02-02, Clarke Quay, 3A River Valley Road, 179020\r\n",
+        "vote": "61%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845707,
+          1.289943
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nPint & Curries \r\nASIAN • BEER • INDIAN • NORTH INDIAN • THAI\r\nADDRESS: #01-14, Clarke Quay, 3D River Valley Road, 179023\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845262,
+          1.291028
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nPind Balluchi Bar & Grill \r\nASIAN • BEER • INDIAN • NORTH INDIAN • WINE\r\nADDRESS: #01-15, Clarke Quay, 3B River Valley Road, 179021\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844843,
+          1.290373
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nMotorino Pizza \r\nPIZZA\r\nADDRESS: #01-01A, Clarke Quay, 3A River Valley Road, 179020\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "53 Votes\r\nSalt Tapas & Bar \r\nAUSTRALIAN • EUROPEAN • MEDITERRANEAN • SPANISH • WESTERN\r\nADDRESS: #01-22A, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "105 Votes\r\nSaizeriya (Liang Court) \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: #02-22, Liang Court, 177 River Valley Road, 179030\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nYAYOI Liang Court (Liang Court) \r\nASIAN • JAPANESE\r\nADDRESS: #B1-50, Liang Court, 177C River Valley Road, 179030\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84938,
+          1.288226
+        ]
+      },
+      "properties": {
+        "info": "16 Votes\r\nMadame Patisserie (Boat Quay) \r\nEUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-76, 76 Boat Quay, 049864\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "32 Votes\r\nTiong Bahru Bakery (Raffles City) \r\nEUROPEAN • FRENCH • WESTERN\r\nADDRESS: #B1-11/12, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846694,
+          1.288424
+        ]
+      },
+      "properties": {
+        "info": "96 Votes\r\nMa Maison Restaurant (Central) \r\nASIAN • JAPANESE • WESTERN\r\nADDRESS: #03-96, Central, 6 Eu Tong Sen Street, 059817\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845262,
+          1.291028
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\r\nMad For Garlic (Clarke Quay) \r\nEUROPEAN • ITALIAN • PIZZA • WESTERN\r\nADDRESS: #01-16, Clarke Quay The Foundry, 3B River Valley Road, 179021\r\n",
+        "vote": "65%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.841482,
+          1.293225
+        ]
+      },
+      "properties": {
+        "info": "64 Votes\r\nBistecca Tuscan Steakhouse \r\nEUROPEAN • ITALIAN • STEAK AND GRILLS • WESTERN\r\nADDRESS: 25 Mohamed Sultan Road, 238969\r\n",
+        "vote": "84%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845262,
+          1.291028
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTang Music Box \r\nASIAN • HONG KONG\r\nADDRESS: #02-03/04, Foundry, Clarke Quay, 3B River Valley Road, 179021\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "27 Votes\r\nTamoya (Liang Court Shopping Center) \r\nASIAN • JAPANESE\r\nADDRESS: #01-32, Liang Court Shopping Centre, 177 River Valley Road, 179030\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "41 Votes\r\nSushi Tei (Raffles City) \r\nASIAN • JAPANESE\r\nADDRESS: #03-13/14, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "78%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8456701,
+          1.2918985
+        ]
+      },
+      "properties": {
+        "info": "42 Votes\r\nThe Fabulous Baker Boy \r\nWESTERN\r\nADDRESS: #01-15, The Foothills, 70 River Valley Road, 179037\r\n",
+        "vote": "74%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846205,
+          1.290668
+        ]
+      },
+      "properties": {
+        "info": "11 Votes\r\nThe Connoisseur Concerto (Clarke Quay) \r\nAMERICAN • DESSERTS • WESTERN\r\nADDRESS: #01-01, Clarke Quay, 3E River Valley Road, 179024\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852879,
+          1.293196
+        ]
+      },
+      "properties": {
+        "info": "93 Votes\r\n Valentine's Day\r\nEquinox Restaurant \r\nEUROPEAN • INTERNATIONAL • WESTERN\r\nADDRESS: Level 70, Swissotel The Stamford, 2 Stamford Road, 178882\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nMcDonald's (Raffles City) \r\nAMERICAN • DESSERTS • HALAL • SNACKS • WESTERN\r\nADDRESS: #01-49/50/51, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851567,
+          1.293542
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nZaku \r\nASIAN • JAPANESE\r\nADDRESS: #01-84, Capitol Theatre, 17 Stamford Road, 178884\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nSubway (Liang Court) \r\nAMERICAN • SNACKS • WESTERN\r\nADDRESS: #01-13A, Liang Court, 177 River Valley Road, 179030\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851722,
+          1.287408
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPrive (ACM) \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: #01-02, Empress Place, 1 Empress Place, 179555\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTuk Tuk Cha (Raffles City Tower) \r\nDESSERTS\r\nADDRESS: #B1-68, Raffles City Tower, 250 North Bridge Road, 179103\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSmoulder (Raffles City Shopping Centre) \r\nDESSERTS\r\nADDRESS: #B1-68, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8505969,
+          1.296653
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nLoaves Me \r\nASIAN • DESSERTS • FUSION • JAPANESE\r\nADDRESS: #B1-45, 70 Stamford Road, 178901\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nThe Pizza Place \r\nEUROPEAN • ITALIAN • PIZZA • WESTERN\r\nADDRESS: #B1-16, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839168,
+          1.290086
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nOyster Bar & Grill Wharf (Robertson Quay) \r\nASIAN • FUSION • JAPANESE • SEAFOOD • WESTERN • MORE\r\nADDRESS: #01-01, The Quayside, 60 Robertson Quay, 238252\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851285,
+          1.289704
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSmoke & Mirrors \r\nCOCKTAILS • DRINKS • WESTERN\r\nADDRESS: #06-01, National Gallery Singapore, 1 Saint Andrew's Road, 178957\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "53 Votes\r\nShin Yeh Restaurant (Liang Court) \r\nCHINESE • DIM SUM • TAIWANESE\r\nADDRESS: #02-19, Liang Court Shopping Centre, 177 River Valley Road, 179030\r\n",
+        "vote": "74%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8493869,
+          1.294125
+        ]
+      },
+      "properties": {
+        "info": "48 Votes\r\nSoHo Coffee Singapore \r\nASIAN • EUROPEAN • WESTERN\r\nADDRESS: 36 Armenian Street, 179934\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84892,
+          1.297598
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nMomolato \r\nDESSERTS • EUROPEAN • ITALIAN\r\nADDRESS: #01-73, SMU School of Economics and Social Sciences, 90 Stamford Road, 178903\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844896,
+          1.29178
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nPecori Japanese Egg Restaurant \r\nASIAN • JAPANESE\r\nADDRESS: Liang Court Shopping Centre, 177 River Valley Road, 179030\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851072,
+          1.288558
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nBarber Shop by Timbre \r\nBEER • WINE\r\nADDRESS: #01-03, The Arts House, 1 Old Parliament Lane, 179429\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nGodiva Chocolatier (Raffles City) \r\nBELGIAN • DESSERTS • EUROPEAN • WESTERN\r\nADDRESS: #01-39A, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nToast Box (Raffles City) \r\nASIAN • CHINESE • LOCAL • MALAY • SINGAPOREAN\r\nADDRESS: #B1-44A, Raffle City Shopping Mall, 252 North Bridge Road, 179103\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852807,
+          1.294149
+        ]
+      },
+      "properties": {
+        "info": "36 Votes\r\nShahi Maharani North Indian Restaurant \r\nASIAN • INDIAN • NORTH INDIAN • PAKISTANI\r\nADDRESS: #03-21B, Raffles City Shopping Centre, 252 North Bridge Road, 179103\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846694,
+          1.288424
+        ]
+      },
+      "properties": {
+        "info": "148 Votes\r\nTao's Restaurant \r\nASIAN • CHINESE • EUROPEAN • FUSION • JAPANESE\r\nADDRESS: #04-86, The Central, 6 Eu Tong Sen Street, 059817\r\n",
+        "vote": "78%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84128,
+          1.2921149
+        ]
+      },
+      "properties": {
+        "info": "40 Votes\r\nYakiniku Yazawa \r\nASIAN • JAPANESE\r\nADDRESS: #01-01, Robertson Walk, 11 Unity Street, 237995\r\n",
+        "vote": "95%\r\n"
+      }
+    }
+  ]
+}

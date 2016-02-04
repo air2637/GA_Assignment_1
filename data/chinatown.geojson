@@ -1,0 +1,943 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843265,
+          1.283352
+        ]
+      },
+      "properties": {
+        "info": "50 Votes\r\nMei Heong Yuen Dessert (Chinatown)\r\nASIAN • CHINESE\r\nADDRESS: 67 Temple Street, 058611\r\n",
+        "vote": "80%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nBedok Chwee Kway (Chinatown)\r\nCHINESE • SNACKS\r\nADDRESS: #02-43, Chinatown Complex Market, Blk 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8443099,
+          1.282261
+        ]
+      },
+      "properties": {
+        "info": "24 Votes\r\nYummy Viet (Chinatown)\r\nASIAN • INDOCHINESE • VIETNAMESE\r\nADDRESS: Chinatown Food Street, 28 Smith Street, 058942\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844249,
+          1.281802
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nLeong Sang Hong Kong Pastries (Chinatown)\r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: 18 Sago Street, 059017\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843822,
+          1.279277
+        ]
+      },
+      "properties": {
+        "info": "658 Votes\r\nChicken Up (Tanjong Pagar)\r\nASIAN • KOREAN\r\nADDRESS: #01-01, 48 Tanjong Pagar Road, 088469\r\n",
+        "vote": "96%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842125,
+          1.281098
+        ]
+      },
+      "properties": {
+        "info": "91 Votes\r\n49 Seats (Kreta Ayer Road)\r\nBEER • FUSION • WESTERN • WINE\r\nADDRESS: 49 Kreta Ayer Road, 089007\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84675,
+          1.284184
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nMouth Restaurant (China Square Central)\r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #01-61, China Square Central South Bridge Court Shop Shouse, 22 Cross Street, 048421\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.841996,
+          1.278704
+        ]
+      },
+      "properties": {
+        "info": "31 Votes\r\nPatisserie Glace (Chinatown Plaza)\r\nASIAN • DESSERTS • JAPANESE\r\nADDRESS: #01-10, Chinatown Plaza, 34 Craig Road, 089673\r\n",
+        "vote": "90%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84215,
+          1.282287
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nManbok Chinatown Korean BBQ & Steamboat Buffet Restaurant\r\nASIAN • BARBECUE • KOREAN • SEAFOOD • STEAMBOAT\r\nADDRESS: 279 New Bridge Road, 088752\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843125,
+          1.279339
+        ]
+      },
+      "properties": {
+        "info": "83 Votes\r\nFlor Patisserie (Duxton Hill) \r\nASIAN • DESSERTS • JAPANESE • WESTERN\r\nADDRESS: #01-01, 2 Duxton Hill, 089588\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845228,
+          1.283677
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nMomma Kong's \r\nASIAN • CHINESE • LOCAL • SEAFOOD • SINGAPOREAN\r\nADDRESS: 34 Mosque Street, 059512\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "35 Votes\r\nRoosevelt's Diner & Bar \r\nAMERICAN • EUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-02, Dorsett Residences, 331 New Bridge Road, 088764\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8449399,
+          1.285202
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nDr. Cafe Coffee (Chinatown Point) \r\nWESTERN\r\nADDRESS: #01-05, Chinatown Point, 133 New Bridge Road, 059413\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8449399,
+          1.285202
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nA One Claypot House (Chinatown Point) \r\nASIAN • CHINESE • STEAMBOAT\r\nADDRESS: #B1-47, Chinatown Point, 133 New Bridge Road, 059413\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8449399,
+          1.285202
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nTamoya (Chinatown Point) \r\nASIAN • JAPANESE\r\nADDRESS: #B1-48/49, Chinatown Point, 133 New Bridge Road, 059413\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8449399,
+          1.285202
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nHonguo (Chinatown Point) \r\nASIAN • CHINESE • YUNNAN\r\nADDRESS: #02-34, Chinatown Point, 133 New Bridge Road, 059413\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8449399,
+          1.285202
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nGenki Sushi (Chinatown Point) \r\nASIAN • JAPANESE\r\nADDRESS: #02-33, Chinatown Point, 133 New Bridge Road, 059413\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84436,
+          1.283985
+        ]
+      },
+      "properties": {
+        "info": "82 Votes\r\nTogi Korean Restaurant \r\nASIAN • KOREAN\r\nADDRESS: 11 Mosque Street, 059491\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844612,
+          1.28384
+        ]
+      },
+      "properties": {
+        "info": "33 Votes\r\nChong Qing Grilled Fish \r\nASIAN • CHINESE • SICHUAN\r\nADDRESS: #01-01, 18 Mosque Street, 059498\r\n",
+        "vote": "76%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nHeng Kee Curry Chicken Noodles \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #01-58, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8452949,
+          1.283644
+        ]
+      },
+      "properties": {
+        "info": "21 Votes\r\nSi Wei Mao Cai \r\nASIAN • CHINESE • SICHUAN\r\nADDRESS: 33 Mosque Street, 059511\r\n",
+        "vote": "95%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843542,
+          1.283984
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPure Pandan (Chinatown Point) \r\nSNACKS • WESTERN\r\nADDRESS: #B2-05, Chinatown Point, 133 New Bridge Road, 059431\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "21 Votes\r\nAh Heng Curry Chicken Bee Hoon Mee (Hong Lim Food Centre)\r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #02-58/59, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "90%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nXiu Ji Ikan Bilis Yong Tau Fu \r\nASIAN • CHINESE • TEOCHEW\r\nADDRESS: #02-88, Chinatown Complex Market, 335 Smith Street, 050335\r\n",
+        "vote": "95%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846694,
+          1.288424
+        ]
+      },
+      "properties": {
+        "info": "96 Votes\r\nMa Maison Restaurant (Central) \r\nASIAN • JAPANESE • WESTERN\r\nADDRESS: #03-96, Central, 6 Eu Tong Sen Street, 059817\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84009,
+          1.276955
+        ]
+      },
+      "properties": {
+        "info": "27 Votes\r\nNylon Coffee Roasters \r\nWESTERN\r\nADDRESS: #01-40, 4 Everton Park, 080004\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843357,
+          1.278327
+        ]
+      },
+      "properties": {
+        "info": "95 Votes\r\nGroup Therapy (Duxton Road) \r\nWESTERN\r\nADDRESS: #02-01, 49 Duxton Road, 089513\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847102,
+          1.282439
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nV Dom Entertainment \r\nWINE\r\nADDRESS: 12 Gemmill Lane, 069252\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837338,
+          1.29029
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nThe Quay Restaurant & Bar \r\nADDRESS: Robertson Blue, 86 Robertson Quay, 238247\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843945,
+          1.285697
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nXin Man Yuan Vegetarian Restaurant - 心满圆素食館\r\nASIAN • CHINESE • HONG KONG\r\nADDRESS: #03-32, People's Park Centre, 101 Upper Cross Street, 058357\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nAh Heng Duck Rice \r\nASIAN • CHINESE • LOCAL\r\nADDRESS: #02-64, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846868,
+          1.283384
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nDosirak \r\nASIAN • KOREAN\r\nADDRESS: #01-02, China Square Central, 18 Cross Street, 048423\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844568,
+          1.282741
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nArterial \r\nWESTERN\r\nADDRESS: Kreta Ayer Conservation Area, 24 Temple Street, 058569\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nYuan Fa Claypot Rice \r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #02-222, Chinatown Complex Market, Blk 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847223,
+          1.281168
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nAloha Poke \r\nWESTERN\r\nADDRESS: #01-01, 92 Amoy Street, 069911\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842602,
+          1.284987
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nMala Hot Pot \r\nASIAN • CHINESE • SICHUAN\r\nADDRESS: #01-1042, People's Park Food Centre, 32 New Market Road, 050032\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839817,
+          1.288274
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\n4M Changi Village Nasi Lemak \r\nASIAN\r\nADDRESS: #01-07, 1 Jalan Kukoh, 161001\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8437579,
+          1.283249
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nNutrihub \r\nFUSION • VEGETARIAN\r\nADDRESS: 46 Temple Street, 058591\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843945,
+          1.285697
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nDessert Street \r\nDESSERTS\r\nADDRESS: #01-05L, People's Park Centre, 101 Upper Cross Street, 058357\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nCantonese Delights \r\nASIAN • CANTONESE • CHINESE • HONG KONG\r\nADDRESS: #02-03, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nDong Fang Hong Sotong Ball Seafood Soup \r\nASIAN • CHINESE\r\nADDRESS: #01-47, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845793,
+          1.281048
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nNutmeg & Clove \r\nBEER • COCKTAILS • DRINKS • WESTERN • WINES\r\nADDRESS: 17 Ann Siang Road, 069697\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842602,
+          1.284987
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nDong Dong Hainanese Chicken Rice (Peoples Park)\r\nASIAN • CHINESE • HAINANESE\r\nADDRESS: #01-1110, People's Park Cooked Food Centre, 32 New Market Road, 050032\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840885,
+          1.282122
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nZhen Zhen Hainanese Chicken Rice \r\nASIAN • CHINESE • HAINANESE\r\nADDRESS: #01-01, Pearl's Centre, 100 Eu Tong Sen Street, 059812\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842916,
+          1.278581
+        ]
+      },
+      "properties": {
+        "info": "33 Votes\r\nLatteria Mozzarella Bar \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 40 Duxton Hill, 089618\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840802,
+          1.280314
+        ]
+      },
+      "properties": {
+        "info": "25 Votes\r\nSugar Granny Cafe \r\nASIAN • CHINESE • DESSERTS • HALAL • LOCAL • MORE\r\nADDRESS: 5 Teo Hong Road, 088323\r\n",
+        "vote": "84%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847223,
+          1.282735
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSi Wei Yan \r\nASIAN • CHINESE\r\nADDRESS: 1 Club Street, 069400\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nGrand Stewed Herbal Soup + BBQ \r\nBARBECUE • CHINESE • SEAFOOD • SNACKS\r\nADDRESS: #02-136, Chinatown Complex Market, Blk 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\n115 Tang Shui \r\nASIAN • DESSERTS • LOCAL • SINGAPOREAN\r\nADDRESS: #02-206, Chinatown Complex Market, Blk 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nSoon Ji Ban Mian \r\nASIAN • CHINESE\r\nADDRESS: #02-064, Chinatown Complex, 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nHiong Kee Dumplings \r\nASIAN • CHINESE • HOKKIEN • LOCAL • SNACKS\r\nADDRESS: #01-45, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842602,
+          1.284987
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nSee Sean Rice Stall \r\nCHINESE • SEAFOOD\r\nADDRESS: #01-1026, People's Park Cooked Food Centre, Blk 32 New Market Road, 050032\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTou Shou Di \r\nFRUITS & DRINKS • SNACKS\r\nADDRESS: #02-114, Chinatown Complex Market, Blk 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTraditional Herbal Claypot Soups \r\nASIAN • CHINESE\r\nADDRESS: #01-52, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846868,
+          1.283384
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nLINS Smoodees \r\nFRUITS & DRINKS\r\nADDRESS: #B1-02, China Square Central, 18 Cross Street, 048423\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nKent Thong Turtle Soup \r\nCHINESE\r\nADDRESS: #02-188, Chinatown Complex Market, Blk 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845663,
+          1.282497
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nTirupthi Banana Leaf \r\nASIAN • INDIAN • SOUTH INDIAN\r\nADDRESS: 241 South Bridge Road, 058790\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847664,
+          1.284855
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nAbsolute Acai \r\nAFRICAN • ASIAN • LOCAL\r\nADDRESS: #01-38, Nankin Row, 3 Pickering Street, 048660\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843035,
+          1.279302
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nPraelum Wine Bistro \r\nASIAN • BEER • EUROPEAN • FRENCH • INDOCHINESE • MORE\r\nADDRESS: 4 Duxton Hill, 089590\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843984,
+          1.2798369
+        ]
+      },
+      "properties": {
+        "info": "27 Votes\r\nHis.tori \r\nASIAN • FUSION • JAPANESE • KOREAN\r\nADDRESS: 20 Tanjong Pagar Road, 088443\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846694,
+          1.288424
+        ]
+      },
+      "properties": {
+        "info": " \r\n148 Votes\r\nTao's Restaurant \r\nASIAN • CHINESE • EUROPEAN • FUSION • JAPANESE\r\nADDRESS: #04-86, The Central, 6 Eu Tong Sen Street, 059817\r\n",
+        "vote": "78%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840996,
+          1.278806
+        ]
+      },
+      "properties": {
+        "info": "41 Votes\r\nEight Cafe & Bar \r\nFUSION • WESTERN\r\nADDRESS: 8 Bukit Pasoh Road, 089822\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84267,
+          1.277586
+        ]
+      },
+      "properties": {
+        "info": "153 Votes\r\n Valentine's Day\r\nPasta Brava Restaurant \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 11 Craig Road, 089671\r\n",
+        "vote": "76%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8449399,
+          1.285202
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nChir Chir Singapore \r\nASIAN • KOREAN\r\nADDRESS: #01-43, Chinatown Point, 133 New Bridge Road, 059413\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845958,
+          1.282295
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nMy Little Tapas Bar \r\nEUROPEAN • MEDITERRANEAN • SPANISH\r\nADDRESS: 42 Club Street, 069420\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845851,
+          1.285321
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nMeng Kee Coffee Stall \r\nFRUITS & DRINKS • SNACKS\r\nADDRESS: #02-56, Hong Lim Food Centre, 531A Upper Cross Street, 051531\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843098,
+          1.282573
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nChinatown Sun Seng Gourmet's Corner \r\nCHINESE • SEAFOOD\r\nADDRESS: #02-62, Chinatown Complex Market, Blk 335 Smith Street, 050335\r\n",
+        "vote": "100%\r\n"
+      }
+    }
+  ]
+}

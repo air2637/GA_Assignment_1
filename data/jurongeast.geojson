@@ -1,0 +1,495 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775338,
+          1.3425
+        ]
+      },
+      "properties": {
+        "info": "50 Votes\r\nAl-Azhar Eating Restaurant\r\nASIAN • HALAL • INDIAN • INDONESIAN • LOCAL • MORE\r\nADDRESS: 11/11A Cheong Chin Nam Road, 599736\r\n",
+        "vote": "78%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.753555,
+          1.327445
+        ]
+      },
+      "properties": {
+        "info": "22 Votes\r\nSouthwest Tavern\r\nAMERICAN • BEER • WESTERN • WINE\r\nADDRESS: #01-33, Tradehub 21, 8 Boon Lay Way, 609964\r\n",
+        "vote": "95%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.742022,
+          1.3335109
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nChicken Up (Jurong East)\r\nASIAN • KOREAN\r\nADDRESS: #01-01, Jurong East Mrt Station, 10 Jurong East Street 12, 609690\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7436599,
+          1.3330671
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nSo Pho (Jem)\r\nASIAN • VIETNAMESE\r\nADDRESS: #B1-08, Jem, 50 Jurong Gateway Road, 608549\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.737137,
+          1.343772
+        ]
+      },
+      "properties": {
+        "info": "22 Votes\r\nZai Shun Curry Fish Head\r\nASIAN • CHINESE • SEAFOOD\r\nADDRESS: #01-205, First Cooked Food Point, 253 Jurong East Street 24, 600253\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "49 Votes\r\nMiam Miam (Westgate)\r\nASIAN • EUROPEAN • FRENCH • FUSION • ITALIAN • MORE\r\nADDRESS: #01-21/22, Westgate, 3 Gateway Drive, 608532\r\n",
+        "vote": "63%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nIppudo SG (Westgate)\r\nASIAN • JAPANESE\r\nADDRESS: #03-03, Westgate, 3 Gateway Drive, 608532\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.731423,
+          1.344528
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nRichie's Crispy Puff (Jurong East)\r\nASIAN • CHINESE • HALAL • LOCAL • SINGAPOREAN • MORE\r\nADDRESS: #01-1201, 349 Jurong East Ave 1, 600349\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.737353,
+          1.328981
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nFu Lin Men Chinese Restaurant (Jurong Country Club)\r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #02-10, Jurong Country Club, 9 Science Centre Road, 609078\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.740277,
+          1.33352
+        ]
+      },
+      "properties": {
+        "info": "31 Votes\r\nPique Nique (JCube) \r\nAMERICAN • DESSERTS • WESTERN\r\nADDRESS: #01-08, JCube, 2 Jurong East Central 1, 609731\r\n",
+        "vote": "65%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746872,
+          1.334938
+        ]
+      },
+      "properties": {
+        "info": "41 Votes\r\nBaliThai Restaurant (IMM) \r\nASIAN • HALAL • INDONESIAN • MALAY / INDONESIAN • THAI\r\nADDRESS: #01-21, IMM, 2 Jurong East Street 21, 609601\r\n",
+        "vote": "56%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nGriddy \r\nEUROPEAN • INTERNATIONAL • WESTERN\r\nADDRESS: #B2-K12, Westgate, 3 Gateway Drive, 608532\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "12 Votes\r\nParadise Dynasty (Westgate) \r\nASIAN • CHINESE • DESSERTS • DIM SUM • SHANGHAINESE • MORE\r\nADDRESS: #02-13/14, Westgate, 3 Gateway Drive, 608532\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.739684,
+          1.333788
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\r\nBoon Lay Raja Restaurant \r\nASIAN • CANTONESE • CHINESE • SEAFOOD\r\nADDRESS: #02-337, 135 Jurong East Street 13, 600135\r\n",
+        "vote": "75%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746872,
+          1.334938
+        ]
+      },
+      "properties": {
+        "info": "40 Votes\r\nHoshi Japanese Restaurant (IMM) \r\nASIAN • JAPANESE\r\nADDRESS: #03-01, IMM, 2 Jurong East Street 21, 609601\r\n",
+        "vote": "53%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.775235,
+          1.342959
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nJoo Seng Teochew Porridge \r\nASIAN • CHINESE • LOCAL • SINGAPOREAN • TEOCHEW\r\nADDRESS: 14 Cheong Chin Nam Road, 599738\r\n",
+        "vote": "78%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.735176,
+          1.344476
+        ]
+      },
+      "properties": {
+        "info": "18 Votes\r\nEnaq Restaurant \r\nASIAN • INDIAN • SOUTH INDIAN\r\nADDRESS: 303 Jurong East Street 32, 600303\r\n",
+        "vote": "78%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "30 Votes\r\nTim Ho Wan (Westgate) \r\nASIAN • CANTONESE • CHINESE • DIM SUM • HONG KONG\r\nADDRESS: #01-13/14, Westgate, 3 Gateway Drive, 608532\r\n",
+        "vote": "60%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746872,
+          1.334938
+        ]
+      },
+      "properties": {
+        "info": "22 Votes\r\nStreats Hong Kong Cafe (IMM) \r\nASIAN • CHINESE • EUROPEAN • FUSION • HALAL • MORE\r\nADDRESS: #01-126, IMM, 2 Jurong East Street 21, 609601\r\n",
+        "vote": "64%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.753597,
+          1.328234
+        ]
+      },
+      "properties": {
+        "info": "29 Votes\r\nKimly Live Seafood \r\nASIAN • CHINESE • SEAFOOD\r\nADDRESS: #01-98, Tradehub 21, 18 Boon Lay Way, 609966\r\n",
+        "vote": "55%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7436599,
+          1.3330671
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\r\nSaladworks \r\nAMERICAN • VEGETARIAN\r\nADDRESS: #02-19, Jem, 50 Jurong Gateway Road, 608549\r\n",
+        "vote": "90%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.731423,
+          1.344528
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nKai Xiang Seafood \r\nASIAN • CHINESE • ZI CHAR\r\nADDRESS: 349 Jurong East Ave 1, 600349\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746872,
+          1.334938
+        ]
+      },
+      "properties": {
+        "info": "19 Votes\r\nBaystreet 21 \r\nASIAN • CHINESE • LOCAL • NONYA • SINGAPOREAN • MORE\r\nADDRESS: #02-30, IMM, 2 Jurong East Street 21, 609601\r\n",
+        "vote": "63%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "42 Votes\r\n Exclusive\r\nRobata Robata \r\nASIAN • JAPANESE\r\nADDRESS: #03-10/11, Westgate, 3 Gateway Drive, 608532\r\n",
+        "vote": "45%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.73778,
+          1.343434
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nFei Fei Roasted Noodles \r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: #01-28, 254 Jurong East Street 24, 600254\r\n",
+        "vote": "77%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.749234,
+          1.3275999
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\r\nVivavox Cafe (International Business Park) \r\nPIZZA • WESTERN\r\nADDRESS: #01-10, Icon @ IBP, 3A International Business Park, 609935\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746872,
+          1.334938
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nPot Luck \r\nASIAN • CHINESE\r\nADDRESS: #01-101A, IMM, 2 Jurong East Street 21, 609601\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\n CNY\r\nSync Korean Fusion Bistro \r\nASIAN • FUSION • KOREAN\r\nADDRESS: #03-01, Westgate, 3 Gateway Drive, 608532\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7436599,
+          1.3330671
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nLee's Taiwanese (Jem) \r\nASIAN • CHINESE • TAIWANESE\r\nADDRESS: #03-05, Jem, 50 Jurong Gateway Road, 608549\r\n",
+        "vote": "67%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.746872,
+          1.334938
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nSaboten (IMM) \r\nASIAN • JAPANESE\r\nADDRESS: #01-19, IMM, 2 Jurong East Street 21, 609601\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.722354,
+          1.308133
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nChocoelf Chocolaterie (Jalan Tepong) \r\nADDRESS: #03-02, Jurong Food Hub, 15 Jalan Tepong, 619336\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7436599,
+          1.3330671
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nLaksania (Jem) \r\nASIAN • FUSION\r\nADDRESS: #03-09, Jem, 50 Jurong Gateway Road, 608549\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7436599,
+          1.3330671
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nIndoBox (Jem) \r\nASIAN • INDONESIAN • MALAY • MALAY / INDONESIAN\r\nADDRESS: #03-22, Jem, 50 Jurong Gateway Road, 608549\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.731466,
+          1.345236
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nXing Yun (Lucky) Hainanese Boneless Chicken Rice\r\nCHINESE • HAINANESE\r\nADDRESS: #01-202, Yuhua Market and Hawker Centre, Blk 347 Jurong East Avenue 1, 600347\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.729003,
+          1.350415
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nEpic Bistro \r\nAMERICAN • EUROPEAN • ITALIAN • WESTERN\r\nADDRESS: #01-03, YoHa@Jurong, 200 Jurong East Avenue 1, 609789\r\n",
+        "vote": "100%\r\n"
+      }
+    }
+  ]
+}

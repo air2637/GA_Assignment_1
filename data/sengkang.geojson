@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885948,
+          1.361641
+        ]
+      },
+      "properties": {
+        "info": "61 Votes\r\nLola's Cafe\r\nPIZZA • WESTERN\r\nADDRESS: 5 Simon Road, 545893\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nYoshinoya (Compass Point Shopping Centre)\r\nASIAN • JAPANESE\r\nADDRESS: #B1-24/25, Compass Point Shopping Centre, 1 Sengkang Square, 545078\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nYogurt Place (Compass Point)\r\nDESSERTS • WESTERN\r\nADDRESS: #B1-16A, Compass Point Shopping Centre, 1 Sengkang Square, 545078\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.895953,
+          1.39484
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nKoufu (Compassvale Street)\r\nADDRESS: #01-09, 263 Compassvale Street, 540263\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8935928,
+          1.391443
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nOld Bugis Kway Chap\r\nASIAN\r\nADDRESS: Stall #01-38, Kopitiam Square, 10 Sengkang Square, 544829\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nSoup Restaurant (Compass Point)\r\nASIAN • CHINESE\r\nADDRESS: #03-16/17, Compass Point Shopping Centre, 1 Sengkang Square, 545078\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      },
+      "properties": {
+        "info": "22 Votes\r\nOlio Cafe (Compass Point)\r\nEUROPEAN • WESTERN\r\nADDRESS: #01-14/15, Compass Point, 1 Sengkang Square, 545078\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8935928,
+          1.391443
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\n1245 Mookata\r\nASIAN • BARBECUE • INDOCHINESE • STEAMBOAT • THAI\r\nADDRESS: #01-3/4, Kopitiam Square, 10 Sengkang Square, 544829\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876672,
+          1.353178
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nChui Xiang Kitchen \r\nASIAN • CHINESE\r\nADDRESS: 13 Teck Chye Terrace, 545722\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.873677,
+          1.361337
+        ]
+      },
+      "properties": {
+        "info": "30 Votes\r\n8 Degrees Taiwanese Bistro (Tech Chye Terrace)\r\nASIAN • CHINESE • FUSION • TAIWANESE • WESTERN\r\nADDRESS: 37 Tech Chye Terrace, 545616\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.884927,
+          1.36194
+        ]
+      },
+      "properties": {
+        "info": "57 Votes\r\nIce Edge Cafe \r\nWESTERN\r\nADDRESS: #01-10, Simon Plaza, 2 Kovan Road, 548008\r\n",
+        "vote": "72%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nFour Leaves (Compass Point) \r\nDESSERTS • SNACKS\r\nADDRESS: #B1-41/42, Compass Point Shopping Centre, 1 Sengkang Square, 545078\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\r\nMOS Burger (Compass Point) \r\nASIAN • JAPANESE • WESTERN\r\nADDRESS: #01-11/12, Compass Point Shopping Centre, 1 Sengkang Square, 545078\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893007,
+          1.382662
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nChicken Up (Buangkok) \r\nASIAN • KOREAN\r\nADDRESS: #01-13, Buangkok Mrt Station, 10 Sengkang Central, 545061\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876947,
+          1.354713
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nRahim Muslim Food (Kovan Centre) \r\nASIAN • HALAL\r\nADDRESS: #01-02, Kovan Centre, 9 Yio Chu Kang Road, 545523\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893938,
+          1.382748
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nKorean Cuisine \r\nCHINESE • KOREAN\r\nADDRESS: #01-07, Kopitiam@Kopitiam City, 275D Compassvale Link, 544275\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nPetite Bakehouse \r\nADDRESS: #01-258, Anchorvale Horizon, 326A Anchorvale Road, 541326\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876909,
+          1.353392
+        ]
+      },
+      "properties": {
+        "info": "14 Votes\r\nTandoor Curry Club (Teck Chye Terrace) \r\nASIAN • HALAL • INDIAN • NORTH INDIAN\r\nADDRESS: 27 Teck Chye Terrace, 545729\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.877534,
+          1.354171
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\r\nBottles & Taps \r\nBEER\r\nADDRESS: 1C Yio Chu Kang Road, 545513\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893938,
+          1.382748
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nSengkang Nasi Lemak \r\nMALAY • SNACKS\r\nADDRESS: #01-05, Kopitiam @ Kopitiam City, Blk 275D Compassvale Link, Kopitiam City #01-01, 544275\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.893938,
+          1.382748
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nDrink Stall \r\nFRUITS & DRINKS\r\nADDRESS: #01-01, Kopitiam @ Kopitiam City, Blk 275D Compassvale Link, Kopitiam City #01-01, 544275\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876909,
+          1.353392
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nYaowarat Seafood \r\nASIAN • INDOCHINESE • SEAFOOD • THAI\r\nADDRESS: 27 Teck Chye Terrace, 545729\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.885794,
+          1.3617729
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\r\nSoon Soon Teochew Porridge \r\nASIAN • CHINESE • TEOCHEW\r\nADDRESS: 13 Simon Road, 545897\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.884927,
+          1.36194
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nA-1 Nonya Kueh & Confectionery \r\nADDRESS: #01-07, Simon Plaza, 2 Kovan Road, 548008\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.876971,
+          1.353446
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nAh Seah Teochew Porridge (Teck Chye Terrace)\r\nASIAN • CHINESE • TEOCHEW\r\nADDRESS: 31 Teck Chye Terrace, 545731\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8767809,
+          1.3532709
+        ]
+      },
+      "properties": {
+        "info": "15 Votes\r\nGoki Day Korean BBQ Buffet Restaurant \r\nASIAN • KOREAN\r\nADDRESS: 19 Teck Chye Terrace, 545725\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.894775,
+          1.392272
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\n1901 Hot Dog \r\nAMERICAN • HALAL • WESTERN\r\nADDRESS: #01-04, Compass Point Shopping Centre, 1 Sengkang Square, 545078\r\n",
+        "vote": "100%\r\n"
+      }
+    }
+  ]
+}

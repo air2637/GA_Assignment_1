@@ -1,0 +1,663 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843822,
+          1.279277
+        ]
+      },
+      "properties": {
+        "info": "658 Votes\r\nChicken Up (Tanjong Pagar)\r\nASIAN • KOREAN\r\nADDRESS: #01-01, 48 Tanjong Pagar Road, 088469\r\n",
+        "vote": "96%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843818,
+          1.27932
+        ]
+      },
+      "properties": {
+        "info": "101 Votes\r\n2D1N Soju Bang (Tanjong Pagar)\r\nASIAN • KOREAN\r\nADDRESS: #01-01, 44/45/46 Tanjong Pagar Road, 088467\r\n",
+        "vote": "77%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843819,
+          1.2793509
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\r\nSsikkek Korean Grill BBQ Buffet (Tanjong Pagar)\r\nASIAN • KOREAN\r\nADDRESS: #01-01, 44/45/46 Tanjong Pagar Road, 088465\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8445519,
+          1.275185
+        ]
+      },
+      "properties": {
+        "info": "7 Votes\r\nSalads & Wraps (Tanjong Pagar)\r\nSNACKS • WESTERN\r\nADDRESS: #01-86/87, Icon Village, 12 Gopeng Street, 078877\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843125,
+          1.279339
+        ]
+      },
+      "properties": {
+        "info": "83 Votes\r\nFlor Patisserie (Duxton Hill)\r\nASIAN • DESSERTS • JAPANESE • WESTERN\r\nADDRESS: #01-01, 2 Duxton Hill, 089588\r\n",
+        "vote": "87%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844915,
+          1.280092
+        ]
+      },
+      "properties": {
+        "info": "132 Votes\r\nTian Tian Hainanese Chicken Rice (Maxwell)\r\nASIAN • CHINESE • HAINANESE • LOCAL\r\nADDRESS: #01-10/11, Maxwell Food Centre, 1 Kadayanallur Street, 069184\r\n",
+        "vote": "86%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "35 Votes\r\nRoosevelt's Diner & Bar\r\nAMERICAN • EUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-02, Dorsett Residences, 331 New Bridge Road, 088764\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843891,
+          1.276993
+        ]
+      },
+      "properties": {
+        "info": "110 Votes\r\nKeisuke Tonkotsu King\r\nASIAN • JAPANESE\r\nADDRESS: #01-19, Orchid Hotel, 1 Tras Street, 078867\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842833,
+          1.27573
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nArtease (Tanjong Pagar) \r\nASIAN • INTERNATIONAL • LOCAL • SINGAPOREAN • WESTERN\r\nADDRESS: Tanjong Pagar Plaza, 1 Tanjong Pagar Plaza, 082001\r\n",
+        "vote": "83%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845722,
+          1.278277
+        ]
+      },
+      "properties": {
+        "info": "109 Votes\r\nOtto Ristorante \r\nDESSERTS • EUROPEAN • ITALIAN • MODERN EUROPEAN • WESTERN\r\nADDRESS: #01-02, Red Dot Traffic Building, 28 Maxwell Road, 069120\r\n",
+        "vote": "84%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846836,
+          1.280395
+        ]
+      },
+      "properties": {
+        "info": "36 Votes\r\n Valentine's Day\r\nBurlamacco Ristorante \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 77 Amoy Street, 069896\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8472589,
+          1.275386
+        ]
+      },
+      "properties": {
+        "info": "23 Votes\r\nThe Lawn (Shenton Way) \r\nWESTERN\r\nADDRESS: #B1-11, AXA Tower, 8 Shenton Way, 068811\r\n",
+        "vote": "96%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84009,
+          1.276955
+        ]
+      },
+      "properties": {
+        "info": "27 Votes\r\nNylon Coffee Roasters \r\nWESTERN\r\nADDRESS: #01-40, 4 Everton Park, 080004\r\n",
+        "vote": "93%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843357,
+          1.278327
+        ]
+      },
+      "properties": {
+        "info": "95 Votes\r\nGroup Therapy (Duxton Road) \r\nWESTERN\r\nADDRESS: #02-01, 49 Duxton Road, 089513\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842125,
+          1.281098
+        ]
+      },
+      "properties": {
+        "info": "91 Votes\r\n49 Seats (Kreta Ayer Road) \r\nBEER • FUSION • WESTERN • WINE\r\nADDRESS: 49 Kreta Ayer Road, 089007\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843891,
+          1.276993
+        ]
+      },
+      "properties": {
+        "info": "60 Votes\r\nTeppei Japanese Restaurant \r\nASIAN • JAPANESE\r\nADDRESS: #01-18, Orchid Hotel, 1 Tras Link, 078867\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847336,
+          1.2796
+        ]
+      },
+      "properties": {
+        "info": "56 Votes\r\nMoo Bar & Grill \r\nAUSTRALIAN • BEER • STEAK AND GRILLS • WESTERN • WINE\r\nADDRESS: #01-03/06, The Clift, 21 McCallum Street, 069047\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845401,
+          1.276691
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\r\nThe Soup Spoon (Tanjong Pagar) \r\nASIAN • WESTERN\r\nADDRESS: #B1-31, Tanjong Pagar MRT Station, 120 Maxwell Road, 069119\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842916,
+          1.278581
+        ]
+      },
+      "properties": {
+        "info": "33 Votes\r\nLatteria Mozzarella Bar \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 40 Duxton Hill, 089618\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840802,
+          1.280314
+        ]
+      },
+      "properties": {
+        "info": "25 Votes\r\nSugar Granny Cafe \r\nASIAN • CHINESE • DESSERTS • HALAL • LOCAL • MORE\r\nADDRESS: 5 Teo Hong Road, 088323\r\n",
+        "vote": "84%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84215,
+          1.282287
+        ]
+      },
+      "properties": {
+        "info": "26 Votes\r\nManbok Chinatown Korean BBQ & Steamboat Buffet Restaurant\r\nASIAN • BARBECUE • KOREAN • SEAFOOD • STEAMBOAT\r\nADDRESS: 279 New Bridge Road, 088752\r\n",
+        "vote": "81%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845401,
+          1.276691
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nCoffee & Toast (Tanjong Pagar) \r\nASIAN • LOCAL • SINGAPOREAN\r\nADDRESS: #B1-32, Tanjong Pagar Xchange, 120 Maxwell Road, 069119\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84203,
+          1.278237
+        ]
+      },
+      "properties": {
+        "info": "62 Votes\r\nSelfish Gene Cafe \r\nDESSERTS • WESTERN\r\nADDRESS: 40 Craig Road, 089678\r\n",
+        "vote": "82%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840996,
+          1.278806
+        ]
+      },
+      "properties": {
+        "info": "41 Votes\r\nEight Cafe & Bar \r\nFUSION • WESTERN\r\nADDRESS: 8 Bukit Pasoh Road, 089822\r\n",
+        "vote": "88%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846642,
+          1.282483
+        ]
+      },
+      "properties": {
+        "info": "112 Votes\r\n Valentine's Day\r\nSenso Ristorante & Bar \r\nEUROPEAN • ITALIAN • WESTERN • WINE\r\nADDRESS: #01-01, 21 Club Street, 069410\r\n",
+        "vote": "74%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84267,
+          1.277586
+        ]
+      },
+      "properties": {
+        "info": "153 Votes\r\n Valentine's Day\r\nPasta Brava Restaurant \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 11 Craig Road, 089671\r\n",
+        "vote": "76%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848018,
+          1.280364
+        ]
+      },
+      "properties": {
+        "info": "54 Votes\r\n Valentine's Day\r\nPepeNero \r\nBEER • EUROPEAN • ITALIAN • WESTERN • WINE\r\nADDRESS: Telok Ayer Conservation Area, 14 Stanley Street, 068733\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843357,
+          1.278327
+        ]
+      },
+      "properties": {
+        "info": "109 Votes\r\n Valentine's Day\r\nEtna Italian Restaurant (Duxton Road) \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 49/50 Duxton Road, 089513\r\n",
+        "vote": "76%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843822,
+          1.279277
+        ]
+      },
+      "properties": {
+        "info": "6 Votes\r\nChicken Up (Tanjong Pagar Conservation Area)\r\nASIAN • KOREAN\r\nADDRESS: #01-01, Tanjong Pagar Conservation Area, 48 Tanjong Pagar Road, 088469\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842833,
+          1.27573
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\r\nFive Spice Prawn Fritter (Tanjong Pagar Plaza)\r\nCHINESE • TEOCHEW\r\nADDRESS: #02-04/5, Tanjong Pagar Plaza, 1 Tanjong Pagar Plaza, 082001\r\n",
+        "vote": "100%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843984,
+          1.2798369
+        ]
+      },
+      "properties": {
+        "info": "27 Votes\r\nHis.tori \r\nASIAN • FUSION • JAPANESE • KOREAN\r\nADDRESS: 20 Tanjong Pagar Road, 088443\r\n",
+        "vote": "85%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845583,
+          1.281229
+        ]
+      },
+      "properties": {
+        "info": " \r\n25 Votes\r\nGOTO Japanese Restaurant \r\nASIAN • JAPANESE\r\nADDRESS: #01-01, 14 Ann Siang Road, 069694\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840361,
+          1.276612
+        ]
+      },
+      "properties": {
+        "info": "67 Votes\r\nMariners' Corner Restaurant \r\nBEER • WESTERN • WINE\r\nADDRESS: #01-02, Maritime House, 120 Cantonment Road, 089760\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84401,
+          1.27932
+        ]
+      },
+      "properties": {
+        "info": "101 Votes\r\nCapricci \r\nEUROPEAN • ITALIAN • WESTERN • WINE\r\nADDRESS: 27 Tanjong Pagar Road, 088450\r\n",
+        "vote": "73%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840375,
+          1.279295
+        ]
+      },
+      "properties": {
+        "info": "76 Votes\r\nMajestic Restaurant \r\nASIAN • CANTONESE • CHINESE\r\nADDRESS: New Majestic Hotel, 31-37 Bukit Pasoh Road, 089845\r\n",
+        "vote": "74%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847334,
+          1.27757
+        ]
+      },
+      "properties": {
+        "info": "58 Votes\r\nAmarone \r\nBEER • EUROPEAN • ITALIAN • WESTERN • WINE\r\nADDRESS: #01-08, Capital Tower, 168 Robinson Road, 068912\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84359,
+          1.277898
+        ]
+      },
+      "properties": {
+        "info": "11 Votes\r\n Free item\r\nButtergrill \r\nFUSION • WESTERN\r\nADDRESS: Tanjong Pagar Conservation Area, 114 Tanjong Pagar Road, 088529\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8442589,
+          1.277888
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nSushi Mitsuya \r\nASIAN • JAPANESE\r\nADDRESS: #01-01, 60 Tras Street, 078999\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842329,
+          1.271418
+        ]
+      },
+      "properties": {
+        "info": "78 Votes\r\nOutram Ya Hua Rou Gu Cha Restaurant \r\nASIAN • CHINESE • HOKKIEN • TEOCHEW\r\nADDRESS: #01-05/07, Tanjong Pagar Complex, 7 Keppel Road, 089053\r\n",
+        "vote": "78%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847723,
+          1.280676
+        ]
+      },
+      "properties": {
+        "info": "38 Votes\r\nHachi Tei Japanese Food \r\nASIAN • JAPANESE\r\nADDRESS: 147A Telok Ayer Street, 068606\r\n",
+        "vote": "89%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842272,
+          1.27789
+        ]
+      },
+      "properties": {
+        "info": "81 Votes\r\nThe Plain \r\nAUSTRALIAN • WESTERN\r\nADDRESS: #01-01, 50 Craig Road, 089688\r\n",
+        "vote": "79%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.842043,
+          1.279906
+        ]
+      },
+      "properties": {
+        "info": "75 Votes\r\nEsquina \r\nBEER • EUROPEAN • MEDITERRANEAN • SPANISH • WESTERN\r\nADDRESS: 16 Jiak Chuan Road, 089267\r\n",
+        "vote": "71%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8421,
+          1.2781229
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nFordham & Grand \r\nAMERICAN • WESTERN\r\nADDRESS: 43 Craig Road, 089681\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84271,
+          1.279713
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nDa Laura \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 47 Neil Road, 088827\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843549,
+          1.274929
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nSodam Korean Restaurant and Bar \r\nASIAN • KOREAN\r\nADDRESS: #01-08, 100AM, 100 Tras Street, 079027\r\n",
+        "vote": "92%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840541,
+          1.2789569
+        ]
+      },
+      "properties": {
+        "info": "11 Votes\r\nThe Reading Room \r\nEUROPEAN • ITALIAN • WESTERN\r\nADDRESS: 19 Bukit Pasoh Road, 089833\r\n",
+        "vote": "91%\r\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844915,
+          1.280092
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\r\nBean Singapore \r\nASIAN • CHINESE • DESSERTS • LOCAL • SINGAPOREAN\r\nADDRESS: #01-86, Maxwell Food Centre, 1 Kadayayanallur Street, 069184\r\n",
+        "vote": "92%\r\n"
+      }
+    }
+  ]
+}

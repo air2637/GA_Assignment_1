@@ -1,0 +1,663 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855294,
+          1.363019
+        ]
+      },
+      "properties": {
+        "info": "Eng Ho Fried Hokkien Prawn Mee\nASIAN • CHINESE • HOKKIEN\nADDRESS: #01-34, Teck Ghee Square Food Centre, 409 Ang Mo Kio Avenue 10, 560409\n",
+        "vote": "95%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846562,
+          1.372185
+        ]
+      },
+      "properties": {
+        "info": "34 Votes\nHai Sheng Carrot Cake\nASIAN • CHINESE • LOCAL\nADDRESS: #01-09, 724 Ang Mo Kio Avenue 6, 560724\n",
+        "vote": "82%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855671,
+          1.372526
+        ]
+      },
+      "properties": {
+        "info": "71 Votes\nPine Garden's Cake\nDESSERTS\nADDRESS: #01-2369/2329, 529 Ang Mo Kio Ave 10, 560529\n",
+        "vote": "75%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840906,
+          1.380585
+        ]
+      },
+      "properties": {
+        "info": "13 Votes\nAng Mo Kio Avenue 4 Vegetarian Stall\nVEGETARIAN\nADDRESS: 630 Ang Mo Kio Ave 4, 560630\n",
+        "vote": "85%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.839307,
+          1.367489
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\nDouble Scoops\nDESSERTS • DRINKS\nADDRESS: #01-627, Kebun Baru Mall, 226A Ang Mo Kio Avenue 1, 561226\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847207,
+          1.369149
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\n365 Fruit Juice & Smoothies\nDRINKS • JUICES\nADDRESS: #01-02B, 51 @ Amk, 51 Ang Mo Kio Avenue 3, 569922\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8487619,
+          1.363639
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nCafe Mojito\nDESSERTS • WESTERN\nADDRESS: #1-1647, 338 Ang Mo Kio Avenue 1, 560338\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8543059,
+          1.3727609
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nZhou Kee Hainanese Chicken & Roasted Rice \nASIAN • CHINESE • HAINANESE\nADDRESS: #01-146, Cheng San Market and Cooked Food Centre, Blk 527 Ang Mo Kio Avenue 10, 560527\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848122,
+          1.369017
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\nHo Kee Pau (AMK Hub) \nASIAN • CHINESE • SNACKS\nADDRESS: #B2-26, Ang Mo Kio Hub, 53 Ang Mo Kio Ave 3, 569933\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855294,
+          1.363019
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nVictory Sugar Cane Juice \nFRUITS & DRINKS\nADDRESS: #01-17, Teck Ghee Square Food Centre, Blk 409 Ang Mo Kio Avenue 10, 560409\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846562,
+          1.372185
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nHong Chang Wanton Noodles \nCHINESE\nADDRESS: #01-21, Blk 724 Ang Mo Kio Food Centre, Blk 724 Ang Mo Kio Avenue 6, 560724\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.849951,
+          1.374855
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nHock Heng Restaurant \nASIAN • CHINESE\nADDRESS: #01-2688, Aik Leong Eating House, 505 Ang Mo Kio Avenue 8, 560505\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840658,
+          1.3809769
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\nSong Heng Fishball Minced Meat Noodles \nCHINESE\nADDRESS: #01-75, 628 Ang Mo Kio Ave 4, 560628\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840017,
+          1.367211
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nNatural Yong Tau Fu \nCHINESE\nADDRESS: #01-17, Kebun Baru Food Centre, Blk 226H Ang Mo Kio Street 22, 568226\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.845583,
+          1.372198
+        ]
+      },
+      "properties": {
+        "info": "20 Votes\nMarugoto Shokudou \nASIAN • JAPANESE\nADDRESS: #01-07, Broadway Plaza, 4190 Ang Mo Kio Avenue 6, 569841\n",
+        "vote": "95%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "83 Votes\nGrub \nWESTERN\nADDRESS: 510 Ang Mo Kio Avenue 1, 569983\n",
+        "vote": "63%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.851481,
+          1.367993
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\nJenny Bakery \nDESSERTS • FRUITS & DRINKS\nADDRESS: #01-2534, Chong Boon View, 422 Ang Mo Kio Avenue 3, 560422\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847542,
+          1.372561
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nTakagi Ramen Shop \nASIAN • JAPANESE\nADDRESS: #12-183, Hdb-ang Mo Kio, 721 Ang Mo Kio Avenue 8, 560721\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846562,
+          1.372185
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\nSeng Bee Hainanese Chicken Rice \nCHINESE • SNACKS\nADDRESS: #01-31, Ang Mo Kio Market & Food Centre, 724 Ang Mo Kio Avenue 6, 560724\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840658,
+          1.3809769
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nSing Soon Lee Hainanese Chicken Rice \nCHINESE • HAINANESE\nADDRESS: #01-93, Ang Mo Kio Avenue 4 Block 628 Market & Food Centre, 628 Ang Mo Kio Avenue 4, 560628\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.857102,
+          1.3712
+        ]
+      },
+      "properties": {
+        "info": "9 Votes\nCastel \nEUROPEAN • ITALIAN • PIZZA • WESTERN\nADDRESS: #01-1940, 555 Ang Mo Kio Ave 10, 560555\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.848122,
+          1.369017
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nJust Like It (AMK Hub) \nDESSERTS • WESTERN\nADDRESS: #01-19/20, Ang Mo Kio Hub, 53 Ang Mo Kio Avenue 3, 569933\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.844726,
+          1.3724289
+        ]
+      },
+      "properties": {
+        "info": "10 Votes\nMcDonald's (Ang Mo Kio Park) \nAMERICAN • DESSERTS • HALAL • SNACKS • WESTERN\nADDRESS: -, 10 Ang Mo Kio Street 12, 567740\n",
+        "vote": "90%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856729,
+          1.360571
+        ]
+      },
+      "properties": {
+        "info": "5 Votes\nVizz Delights \nASIAN • THAI\nADDRESS: Techplace I, 4011 Ang Mo Kio Avenue 10, 569627\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840017,
+          1.367211
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nHong Heng Beef Noodle Soup & Katong Laksa \nASIAN • CHINESE • HAINANESE • LOCAL • NONYA / PERANAKAN • MORE\nADDRESS: #01-16, Kebun Baru Mall, 226H Ang Mo Kio Street 22, 568226\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847311,
+          1.369998
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nA-Gan Tea (Ang Mo Kio) \nASIAN • CHINESE • FRUITS & DRINKS • TAIWANESE\nADDRESS: #01-25, 703 Ang Mo Kio Avenue 8, 560703\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856773,
+          1.367925
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nPasir Ris Fish Soup \nCHINESE\nADDRESS: #01-91, Chong Boon Food Centre, Blk 453A Ang Mo Kio Avenue 10, 561453\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855294,
+          1.363019
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nFriendship Cold Drinks \nDESSERTS • FRUITS & DRINKS\nADDRESS: #01-08, Teck Ghee Square Food Centre, Blk 409 Ang Mo Kio Avenue 10, 560409\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.835397,
+          1.380128
+        ]
+      },
+      "properties": {
+        "info": "8 Votes\nSelera Rasa Nasi Lemak (Ang Mo Kio) \nASIAN • HALAL • MALAY\nADDRESS: #01-2683, 603 Ang Mo Kio Avenue 5, 560603\n",
+        "vote": "88%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8554865,
+          1.3777036
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\n2amigos(The mexican indian twist) \nLATIN AMERICAN • MEXICAN\nADDRESS: #01-14, Ite College Central, 2 Ang Mo Kio Drive, 567720\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.855294,
+          1.363019
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nLeng Kee Chicken & Duck Rice \nCHINESE\nADDRESS: #01-12, Teck Ghee Square Food Centre, Blk 409 Ang Mo Kio Avenue 10, 560409\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856773,
+          1.367925
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nBencoolen Cooked Food \nCHINESE\nADDRESS: #01-217, Chong Boon Food Centre, Blk 453A Ang Mo Kio Avenue 10, 561453\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.856773,
+          1.367925
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nHua Hua Cooked Food \nCHINESE • SNACKS\nADDRESS: #01-13, Chong Boon Food Centre, Blk 453A Ang Mo Kio Avenue 10, 561453\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.841406,
+          1.379999
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\nYun Seafood Fishhead Restaurant (Ang Mo Kio)\nASIAN • CHINESE\nADDRESS: #01-948, Yio Chu Kang View, 632 Ang Mo Kio Avenue 4, 560632\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846562,
+          1.372185
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nHouse of Cheng Teng \nDESSERTS\nADDRESS: #01-11, Blk 724 Ang Mo Kio Market & Food Centre, 724 Ang Mo Kio Avenue 6, 560724\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.837143,
+          1.36823
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nLao San Kway Chap \nASIAN • CHINESE\nADDRESS: #01-1222, Kebun Baru Palm View, 232 Ang Mo Kio Avenue 3, 560232\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "4 Votes\nShihlin Taiwan Street Snacks (Nex) \nASIAN • CHINESE • SNACKS • TAIWANESE\nADDRESS: #03-K12, Nex, 23 Serangoon Central, 566083\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8459589,
+          1.373029
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\nK.E.G. - Kare Express Grill \nASIAN • JAPANESE • WESTERN\nADDRESS: #01-4236, 727 Ang Mo Kio Ave 6, 560727\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861324,
+          1.374952
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\nYew Yuan (Goh Kee) Restairamt \nASIAN • CHINESE • TEOCHEW\nADDRESS: #01-07, Blk 5023 Ang Mo Kio Industrial Park 2, 569559\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8543059,
+          1.3727609
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nCapitol Roasted Rice. Noodle \nASIAN • CHINESE\nADDRESS: #01-140, 527 Ang Mo Kio Avenue 10 St 52, 560527\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.847542,
+          1.372561
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\nRahim Muslim Food (Ang Mo Kio) \nASIAN • HALAL\nADDRESS: #01-04, Fu Chan Coffee Shop, 721 Ang Mo Kio Avenue 8, 560721\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6428331,
+          33.1592198
+        ]
+      },
+      "properties": {
+        "info": "3 Votes\nXing Long Guang Shi Xiao Shi \nASIAN • CHINESE • SEAFOOD • ZI CHAR\nADDRESS: #01-01, Teck Ghee Court Food Centre, Blk 341 Ang Mo Kio Avenue 1, 564341\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840731,
+          1.379578
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nPeppery Western Cuisine \nSTEAK AND GRILLS • WESTERN\nADDRESS: #01-906, Broadway Food Centre, 631 Ang Mo Kio Avenue 4, 560631\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846562,
+          1.372185
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nSoon Lee Coffee Stall \nFRUITS & DRINKS\nADDRESS: #01-40, Blk 724 Ang Mo Kio Food Centre, Blk 724 Ang Mo Kio Avenue 6, 560724\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840658,
+          1.3809769
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nJoo Heng Mushroom Minced Pork Mee \nCHINESE\nADDRESS: #01-86, Market & Hawker Centre (blk 628 Ang Mo Kio Ave 4), 628 Ang Mo Kio Avenue 4, 560628\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840658,
+          1.3809769
+        ]
+      },
+      "properties": {
+        "info": "1 Vote\nDa Jia Lai Hainanese Chicken Rice \nCHINESE\nADDRESS: #01-85, Ang Mo Kio Avenue 4 Block 628 Market & Food Centre, 628 Ang Mo Kio Avenue 4, 560628\n",
+        "vote": "100%\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.838842,
+          1.37426
+        ]
+      },
+      "properties": {
+        "info": "2 Votes\nHouse of Li Xiang \nASIAN • CHINESE • DESSERTS • FRUITS & DRINKS • LOCAL • MORE\nADDRESS: #01-18, Blk 162 Ang Mo Kio Food Centre, 162 Ang Mo Kio Ave 4, 560162\n",
+        "vote": "100%\n"
+      }
+    }
+  ]
+}
