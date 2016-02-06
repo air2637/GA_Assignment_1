@@ -10,8 +10,8 @@ var southWest = L.latLng(1.201023, 103.597500),
 
 var map = L.map('map', {
     maxBounds: bounds,
-    maxZoom: 19,
-    minZoom: 10
+    maxZoom: 16,
+    minZoom: 0
 });
 
 // zoom the map to that bounding box
