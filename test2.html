@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>test2</title>
+    <!-- CSS -->
+    <link type="text/css" rel="stylesheet" href="css/jquery.pagewalkthrough.css" />
+    <!-- jQuery -->
+    <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+    <!-- Page walkthrough plugin -->
+    <script type="text/javascript" src="js/jquery.pagewalkthrough.js"></script>
+</head>
+
+<body>
+    <div id="walkthrough-content">
+        <div id="walkthrough-1">
+            <h3>欢迎来到Helloweba示例DEMO演示页</h3>
+            <p>页面功能介绍引导页的效果是通过一款叫做pagewalkthrough.js的jQuery插件实现的。</p>
+            <p>点击下一步了解更多...</p>
+        </div>
+        <div id="walkthrough-2">
+            这里是Helloweba网站LOGO，点击这里可以直通网站首页。
+        </div>
+        <div id="walkthrough-3">
+            点击这里可以直接看插件的使用教程。
+        </div>
+        <div id="walkthrough-4">
+            点击这里去下载源码，免费的哦。。
+        </div>
+        <div id="walkthrough-5">
+            这是页脚和版权信息。
+        </div>
+    </div>
+    <script type="text/javascript">
+    $(function() {
+        $('body').pagewalkthrough({
+            name: 'introduction',
+            steps: [{
+                popup: {
+                    content: '#walkthrough-1',
+                    type: 'modal'
+                }
+            }, {
+                wrapper: '#logo',
+                popup: {
+                    content: '#walkthrough-2',
+                    type: 'tooltip',
+                    position: 'bottom'
+                }
+            }, {
+                wrapper: 'h2.top_title a',
+                popup: {
+                    content: '#walkthrough-3',
+                    type: 'tooltip',
+                    position: 'bottom'
+                }
+            }, {
+                wrapper: 'a[href="http://www.helloweba.com/down-286.html"]',
+                popup: {
+                    content: '#walkthrough-4',
+                    type: 'tooltip',
+                    position: 'right'
+                }
+            }, {
+                wrapper: '#footer p',
+                popup: {
+                    content: '#walkthrough-5',
+                    type: 'tooltip',
+                    position: 'top'
+                }
+            }]
+        });
+
+        // Show the tour 
+        $('body').pagewalkthrough('show');
+    });
+    </script>
+</body>
+
+</html>

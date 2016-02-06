@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>test1</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+</head>
+
+<body>
+    <p class="mytext">this is my text</p>
+    <div id="dialog" title="Basic dialog">
+        <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+    </div>
+    <button id="opener">Open Dialog</button>
+    <script>
+    /*$(function() {
+
+            $("#dialog").dialog({
+                autoOpen: false,
+                buttons: {
+                    OK: function() {
+                        $(this).dialog("close");
+                    }
+                },
+                title: "Success",
+                position: {
+                    my: "left center",
+                    at: "left center"
+                }
+            });
+            $("#opener").click(function() {
+                $("#dialog").dialog("open");
+            });
+        });*/
+
+    $(document).ready(function() {
+
+        $("#dialog").dialog({
+            autoOpen: true,
+            buttons: {
+                OK: function() {
+                    $(this).dialog("close");
+                }
+            },
+            title: "Success",
+            position: {
+                my: " center",
+                at: " center"
+            }
+        });
+        $("#opener").click(function() {
+            $("#dialog").dialog("open");
+        });
+    });
+    </script>
+</body>
+
+</html>
