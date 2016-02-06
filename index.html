@@ -50,17 +50,24 @@
     <div id="map"></div>
     <div id="walkthrough-content">
         <div id="walkthrough-1">
-            <h3 style="font-family:verdana; ">Welcome to the SG Food Map,</h3>
-            <p style="font-family:verdana;">Here are some tips help you understand this map:</p>
+            <h3>Welcome to the SG Food Map,</h3>
+            <p>Here are some tips help you understand this map :)</p>
+            <!-- <ul>
+                <li>Choropleth map shows you the number of restaurant in each district</li>
+                <li>Each restaurant is indicated by circles, the surface of the circle indicates the restaurant's customer feedback, the larger circle, the better review</li> -->
+        </div>
+        <div id="walkthrough-2">
+            <p>Click here to locate your current location</p>
+        </div>
+        <div id="walkthrough-3">
             <ul>
-                <li style="font-family:verdana;">Choropleth map shows you the number of restaurant in each district</li>
-                <li style="font-family:verdana;">Each restaurant is indicated by circles, the surface of the circle indicates the restaurant's customer feedback, the larger circle, the better review</li>
+                Here You can select different map layers: 
+                <li text-align="left">restuarant layer shows you the locations of restuarants, the size of the circle denotes the restuarant's popularity</li>
+                <li text-align="left">district layer shows you the number of restuarants in districts</li>
+            </ul>
         </div>
-        <div id="walkthrough-7">
-            This is another new message
-        </div>
-        <div id="walkthrough-8">
-            This is another new message
+        <div id="walkthrough-4">
+            <p>The deeper the color, the more restuarants in the district</p>
         </div>
     </div>
     <script src="js/test1.js"></script>
@@ -70,32 +77,35 @@
         $('body').pagewalkthrough({
             name: 'introduction',
             steps: [{
-                popup: {
-                    content: '#walkthrough-1',
-                    type: 'modal'
+                    popup: {
+                        content: '#walkthrough-1',
+                        type: 'modal'
+                    }
+                }, {
+                    wrapper: '.leaflet-bar-part',
+                    popup: {
+                        content: '#walkthrough-2',
+                        type: 'tooltip',
+                        position: 'left'
+                    }
+                },
+
+                {
+                    wrapper: '.leaflet-control-layers-list',
+                    popup: {
+                        content: '#walkthrough-3',
+                        type: 'tooltip',
+                        position: 'left'
+                    }
+                }, {
+                    wrapper: '.legend',
+                    popup: {
+                        content: '#walkthrough-4',
+                        type: 'tooltip',
+                        position: 'left'
+                    }
                 }
-            }, {
-                wrapper: '.legend',
-                popup: {
-                    content: '#walkthrough-7',
-                    type: 'tooltip',
-                    position: 'left'
-                }
-            }, {
-                wrapper: '.leaflet-bar-part',
-                popup: {
-                    content: '#walkthrough-8',
-                    type: 'tooltip',
-                    position: 'left'
-                }
-            }, {
-                wrapper: '.leaflet-control-layers-list',
-                popup: {
-                    content: '#walkthrough-8',
-                    type: 'tooltip',
-                    position: 'left'
-                }
-            }]
+            ]
         });
 
         // Show the tour
