@@ -4,10 +4,19 @@ var mrtLayer;
 var districtLayer;
 var transportLayer;
 
-var boundsSW = L.latLng(1.201023, 103.597500),
-    boundsNE = L.latLng(1.490837, 104.067218),
-    bounds = L.latLngBounds(boundsSW, boundsNE);
-var map = L.map('map').setView([1.355312, 103.840068], 12);
+var southWest = L.latLng(1.201023, 103.597500),
+    northEast = L.latLng(1.490837, 104.067218),
+    bounds = L.latLngBounds(southWest, northEast);
+
+var map = L.map('map', {
+    maxBounds: bounds,
+    maxZoom: 19,
+    minZoom: 10
+});
+
+// zoom the map to that bounding box
+map.fitBounds(bounds);
+
 
 
 // ==locatecontrol
@@ -59,6 +68,7 @@ L.control.locate({
 
 baseLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+
 }).addTo(map);
 
 
@@ -74,14 +84,7 @@ transportLayer = L.tileLayer('http://{s}.tile.opencyclemap.org/transport/{z}/{x}
 // == singapore district map
 
 function getColor(d) {
-    /*  return d > 60 ? '#800026' :
-          d > 50 ? '#BD0026' :
-          d > 40 ? '#E31A1C' :
-          d > 30 ? '#FC4E2A' :
-          d > 20 ? '#FD8D3C' :
-          d > 10 ? '#FEB24C' :
-          d > 5 ? '#FED976' :
-          '#FFEDA0';*/
+   
     return d > 60 ? '#b10026' :
         d > 50 ? '#e31a1c' :
         d > 40 ? '#fc4e2a' :
@@ -147,14 +150,6 @@ legend.addTo(map);
 
 
 
-/*function onEachFeature(feature, layer) {
-    // does this feature have a property named popupContent?
-    if (feature.properties && feature.properties.info) {
-        layer.bindPopup(feature.properties.info);
-    }
-}*/
-
-
 // load GeoJSON from an external file
 var sites = ["AMK", "chinatown", "bugis", "cityHall", "ClarkeQuay", "clementi", "bedok", "yishun", "serangoon", "sengkang", "woodlands", "admiralty", "jurongeast", "TanjongPagar"];
 restaurantLayer = L.layerGroup();
@@ -163,6 +158,14 @@ $.each(sites, function(i, val) {
     console.log(fileName);
     $.getJSON(fileName, function(data) {
         // add GeoJSON layer to the map once the file is loaded
+
+        var tempLayer_basic = L.geoJson(data);
+
+        var clusters_basic = L.markerClusterGroup();
+        clusters_basic.addLayer(tempLayer_basic);
+        map.addLayer(clusters_basic);
+
+        restaurantLayer.addLayer(tempLayer_basic);
 
         var tempLayer = L.geoJson(data, {
 
@@ -173,12 +176,6 @@ $.each(sites, function(i, val) {
                 return L.circleMarker(latlng, PropStyle(parseInt(feature.properties.vote)));
 
             }
-
-           /* pointToLayer: function(feature,latlng){
-                //var marker = L.marker(latlng,{icon: ratIcon});
-                marker.bindPopup(feature.properties.vote + '<br/>' + feature.properties.vote);
-                return marker;
-            }*/
         });
 
         var clusters = L.markerClusterGroup();
@@ -187,7 +184,7 @@ $.each(sites, function(i, val) {
 
 
         restaurantLayer.addLayer(tempLayer);
-        
+
         if (val === "TanjongPagar") {
 
             loadLayerControl();
@@ -196,29 +193,6 @@ $.each(sites, function(i, val) {
 
     });
 });
-
-
-
-
-
-/*$.getJSON("data/AMK.geojson", function(data) {
-    // add GeoJSON layer to the map once the file is loaded
-
-    restaurantLayer = L.geoJson(data, {
-
-        onEachFeature: function(feature, layer) {
-            layer.bindPopup('<b>'+feature.properties.vote+' of its customer recommand this restaurant to you!</b><br/>'
-                +feature.properties.info);
-        },
-        pointToLayer: function(feature, latlng) {
-            return L.circleMarker(latlng, PropStyle(parseInt(feature.properties.vote)));
-
-        }
-    });
-    loadLayerControl();
-
-});*/
-
 
 function PropStyle(size) {
     //console.log(Math.pow(size, 5));
@@ -240,9 +214,6 @@ function PropStyle(size) {
 //== MRT lines layer
 //== get data from openstreetmap api and draw mrt lines
 
-/*var ewlayer, nslayer, nelayer, cirlayer, dtlayer;
-mrtLayer = L.layerGroup([ewlayer, nslayer, nelayer, cirlayer, dtlayer]);
-mrtLayer.addTo(map);*/
 
 mrtLayer = L.layerGroup();
 
@@ -256,15 +227,12 @@ var eastWestStyle = {
 
 $.ajax({
     url: "http://www.openstreetmap.org/api/0.6/relation/445764/full",
-    // or "http://www.openstreetmap.org/api/0.6/way/52477381/full"
     dataType: "xml",
     success: function(xml) {
         ewlayer = new L.OSM.DataLayer(xml);
         ewlayer.setStyle(eastWestStyle);
-        //ewlayer.addTo(map);
-        map.fitBounds(ewlayer.getBounds());
+        //map.fitBounds(ewlayer.getBounds());
         mrtLayer.addLayer(ewlayer);
-        //loadLayerControl();
     }
 });
 
@@ -279,17 +247,12 @@ var northSouthStyle = {
 
 $.ajax({
     url: "http://www.openstreetmap.org/api/0.6/relation/445768/full",
-    // or "http://www.openstreetmap.org/api/0.6/way/52477381/full"
     dataType: "xml",
     success: function(xml) {
-        /*var layer = new L.OSM.DataLayer(xml).addTo(map);
-        map.fitBounds(layer.getBounds());*/
         nslayer = new L.OSM.DataLayer(xml);
         nslayer.setStyle(northSouthStyle);
-        //nslayer.addTo(map);
-        map.fitBounds(nslayer.getBounds());
+        //map.fitBounds(nslayer.getBounds());
         mrtLayer.addLayer(nslayer);
-        //loadLayerControl();
     }
 });
 
@@ -303,17 +266,12 @@ var northEastStyle = {
 
 $.ajax({
     url: "http://www.openstreetmap.org/api/0.6/relation/2293545/full",
-    // or "http://www.openstreetmap.org/api/0.6/way/52477381/full"
     dataType: "xml",
     success: function(xml) {
-        /*var layer = new L.OSM.DataLayer(xml).addTo(map);
-        map.fitBounds(layer.getBounds());*/
         nelayer = new L.OSM.DataLayer(xml);
         nelayer.setStyle(northEastStyle);
-        //nelayer.addTo(map);
-        map.fitBounds(nelayer.getBounds());
+        //map.fitBounds(nelayer.getBounds());
         mrtLayer.addLayer(nelayer);
-        //loadLayerControl();
     }
 });
 
@@ -328,17 +286,12 @@ var circleStyle = {
 
 $.ajax({
     url: "http://www.openstreetmap.org/api/0.6/relation/2076291/full",
-    // or "http://www.openstreetmap.org/api/0.6/way/52477381/full"
     dataType: "xml",
     success: function(xml) {
-        /*var layer = new L.OSM.DataLayer(xml).addTo(map);
-        map.fitBounds(layer.getBounds());*/
         cirlayer = new L.OSM.DataLayer(xml);
         cirlayer.setStyle(circleStyle);
-        //cirlayer.addTo(map);
-        map.fitBounds(cirlayer.getBounds());
+        //map.fitBounds(cirlayer.getBounds());
         mrtLayer.addLayer(cirlayer);
-        //loadLayerControl();
     }
 });
 
@@ -352,17 +305,14 @@ var downtownStyle = {
 }
 $.ajax({
     url: "http://www.openstreetmap.org/api/0.6/relation/2313458/full",
-    // or "http://www.openstreetmap.org/api/0.6/way/52477381/full"
     dataType: "xml",
     success: function(xml) {
-        /*var layer = new L.OSM.DataLayer(xml).addTo(map);
-        map.fitBounds(layer.getBounds());*/
+       
         dtlayer = new L.OSM.DataLayer(xml);
         dtlayer.setStyle(downtownStyle);
-        //dtlayer.addTo(map);
-        map.fitBounds(dtlayer.getBounds());
+        
+       // map.fitBounds(dtlayer.getBounds());
         mrtLayer.addLayer(dtlayer);
-        //loadLayerControl();
     }
 
 });
