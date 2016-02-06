@@ -68,6 +68,14 @@ transportLayer = L.tileLayer('http://{s}.tile.opencyclemap.org/transport/{z}/{x}
 });
 
 
+var baseLight = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+    maxZoom: 17,
+    minZoom: 12
+});
+
+
+
 
 
 
@@ -222,7 +230,7 @@ $.each(sites, function(i, val) {
 
 function PropStyle(size) {
     //console.log(Math.pow(size, 5));
-    var radius = Math.pow(size, 5) / 500000000;
+    var radius = Math.pow(size, 5) / 200000000;
     return {
         radius: radius,
         fillColor: "#ff7800",
@@ -262,7 +270,7 @@ $.ajax({
         ewlayer = new L.OSM.DataLayer(xml);
         ewlayer.setStyle(eastWestStyle);
         //ewlayer.addTo(map);
-        map.fitBounds(ewlayer.getBounds());
+        //map.fitBounds(ewlayer.getBounds());
         mrtLayer.addLayer(ewlayer);
         //loadLayerControl();
     }
@@ -287,7 +295,7 @@ $.ajax({
         nslayer = new L.OSM.DataLayer(xml);
         nslayer.setStyle(northSouthStyle);
         //nslayer.addTo(map);
-        map.fitBounds(nslayer.getBounds());
+        //map.fitBounds(nslayer.getBounds());
         mrtLayer.addLayer(nslayer);
         //loadLayerControl();
     }
@@ -311,7 +319,7 @@ $.ajax({
         nelayer = new L.OSM.DataLayer(xml);
         nelayer.setStyle(northEastStyle);
         //nelayer.addTo(map);
-        map.fitBounds(nelayer.getBounds());
+        //map.fitBounds(nelayer.getBounds());
         mrtLayer.addLayer(nelayer);
         //loadLayerControl();
     }
@@ -336,7 +344,7 @@ $.ajax({
         cirlayer = new L.OSM.DataLayer(xml);
         cirlayer.setStyle(circleStyle);
         //cirlayer.addTo(map);
-        map.fitBounds(cirlayer.getBounds());
+        //map.fitBounds(cirlayer.getBounds());
         mrtLayer.addLayer(cirlayer);
         //loadLayerControl();
     }
@@ -360,7 +368,7 @@ $.ajax({
         dtlayer = new L.OSM.DataLayer(xml);
         dtlayer.setStyle(downtownStyle);
         //dtlayer.addTo(map);
-        map.fitBounds(dtlayer.getBounds());
+        //map.fitBounds(dtlayer.getBounds());
         mrtLayer.addLayer(dtlayer);
         //loadLayerControl();
     }
@@ -375,7 +383,8 @@ function loadLayerControl() {
 
     var baseMaps = {
         "baseLayer": baseLayer,
-        "transportLayer": transportLayer
+        "transportLayer": transportLayer,
+        "baseLight":baseLight
 
     };
 
@@ -388,7 +397,7 @@ function loadLayerControl() {
 
     L.control.layers(baseMaps, overlayMaps, {
         collapsed: false,
-        position: "topright"
+        position: "bottomright"
     }).addTo(map);
 
 }

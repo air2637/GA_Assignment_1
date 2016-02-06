@@ -225,20 +225,7 @@
         "vote": "100%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "1 Vote\r\nPetite Bakehouse \r\nADDRESS: #01-258, Anchorvale Horizon, 326A Anchorvale Road, 541326\r\n",
-        "vote": "100%\r\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {

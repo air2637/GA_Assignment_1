@@ -155,20 +155,7 @@
         "vote": "100%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "35 Votes\r\nRoosevelt's Diner & Bar \r\nAMERICAN • EUROPEAN • FRENCH • WESTERN\r\nADDRESS: #01-02, Dorsett Residences, 331 New Bridge Road, 088764\r\n",
-        "vote": "89%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {

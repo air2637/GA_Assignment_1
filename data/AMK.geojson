@@ -211,20 +211,7 @@
         "vote": "95%\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "83 Votes\nGrub \nWESTERN\nADDRESS: 510 Ang Mo Kio Avenue 1, 569983\n",
-        "vote": "63%\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
@@ -505,20 +492,7 @@
         "vote": "100%\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "4 Votes\nShihlin Taiwan Street Snacks (Nex) \nASIAN • CHINESE • SNACKS • TAIWANESE\nADDRESS: #03-K12, Nex, 23 Serangoon Central, 566083\n",
-        "vote": "100%\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -575,20 +549,7 @@
         "vote": "100%\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "3 Votes\nXing Long Guang Shi Xiao Shi \nASIAN • CHINESE • SEAFOOD • ZI CHAR\nADDRESS: #01-01, Teck Ghee Court Food Centre, Blk 341 Ang Mo Kio Avenue 1, 564341\n",
-        "vote": "100%\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {

@@ -169,20 +169,7 @@
         "vote": "75%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "11 Votes\r\nWingstop (Bedok Mall) \r\nAMERICAN\r\nADDRESS: #B1-53, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
-        "vote": "100%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
@@ -267,20 +254,7 @@
         "vote": "100%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "1 Vote\r\nMr Bean (Bedok Mall) \r\nDESSERTS • SNACKS\r\nADDRESS: #01-94, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
-        "vote": "100%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
@@ -379,20 +353,7 @@
         "vote": "69%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "1 Vote\r\nScallop-Q \r\nASIAN • SNACKS\r\nADDRESS: #B2-K7, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
-        "vote": "100%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
@@ -575,20 +536,7 @@
         "vote": "100%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "1 Vote\r\nHot Tomato Express (Bedok Mall) \r\nAMERICAN • WESTERN\r\nADDRESS: #B1-37/38, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
-        "vote": "100%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
@@ -701,20 +649,7 @@
         "vote": "100%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "1 Vote\r\nPepper Lunch (Bedok Mall) \r\nFUSION • JAPANESE\r\nADDRESS: #1-05/06/07/08, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
-        "vote": "100%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
@@ -785,20 +720,7 @@
         "vote": "100%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": " \r\n1 Vote\r\nDian Xiao Er (Bedok Mall) \r\nASIAN • CHINESE\r\nADDRESS: #01-73/74, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
-        "vote": "100%\r\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -951,20 +873,6 @@
       "properties": {
         "info": "38 Votes\r\nJing Long Seafood Restaurant \r\nASIAN • CHINESE\r\nADDRESS: #01-152, 412 Bedok North Avenue 2, 460412\r\n",
         "vote": "66%\r\n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "1 Vote\r\nKFC (Bedok Mall) \r\nHALAL • WESTERN\r\nADDRESS: #B2-06 & 33, Bedok Mall, 311 New Upper Changi Road, 467360\r\n",
-        "vote": "100%\r\n"
       }
     }
   ]

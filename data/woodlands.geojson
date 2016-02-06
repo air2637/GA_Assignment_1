@@ -29,20 +29,7 @@
         "vote": "97%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "23 Votes\r\nCheval\r\nFUSION • WESTERN • WINE\r\nADDRESS: Singapore Turf Club Riding Centre, 10 Woodlands Avenue 3, 739045\r\n",
-        "vote": "83%\r\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -71,20 +58,7 @@
         "vote": "92%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "20 Votes\r\nRasa Istimewa Woodlands Waterfront Restaurant\r\nHALAL • SEAFOOD • WESTERN\r\nADDRESS: Woodlands Waterfront Park, 6A Admiralty Road West, 757445\r\n",
-        "vote": "75%\r\n"
-      }
-    },
+  
     {
       "type": "Feature",
       "geometry": {
