@@ -11,7 +11,7 @@ var southWest = L.latLng(1.201023, 103.597500),
 var map = L.map('map', {
     maxBounds: bounds,
     maxZoom: 16,
-    minZoom: 0
+    minZoom: 10
 });
 
 // zoom the map to that bounding box
@@ -100,7 +100,7 @@ function getColor(d) {
 function style(feature) {
     return {
         fillColor: getColor(feature.properties.PNTCNT),
-        weight: 2,
+       weight: 2,
         opacity: 1,
         color: 'white',
         dashArray: '3',
