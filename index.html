@@ -6,14 +6,13 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://domoritz.github.io/leaflet-locatecontrol/dist/L.Control.Locate.min.css" />
     <link rel="stylesheet" href="css/MarkerCluster.css" />
-
-
+    <link rel="stylesheet" href="css/jquery.pagewalkthrough.css">
     <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-
     <script src="js/leaflet-osm.js"></script>
     <script src="js/jquery-2.1.1.min.js"></script>
     <script src="https://domoritz.github.io/leaflet-locatecontrol/dist/L.Control.Locate.min.js" charset="utf-8"></script>
-     <script src="js/leaflet.markercluster.js"></script>
+    <script src="js/leaflet.markercluster.js"></script>
+    <script type="text/javascript" src="js/jquery.pagewalkthrough.min.js"></script>
     <style>
     #map {
         height: 100%;
@@ -31,12 +30,78 @@
         margin-right: 8px;
         opacity: 0.7;
     }
+    
+    #walkthrough-content {
+        display: none
+    }
+    
+    #walkthrough-content h3 {
+        height: 30px;
+        line-height: 30px
+    }
+    
+    #walkthrough-content p {
+        line-height: 28px
+    }
     </style>
 </head>
 
 <body>
     <div id="map"></div>
+    <div id="walkthrough-content">
+        <div id="walkthrough-1">
+            <h3 style="font-family:verdana; ">Welcome to the SG Food Map,</h3>
+            <p style="font-family:verdana;">Here are some tips help you understand this map:</p>
+            <ul>
+                <li style="font-family:verdana;">Choropleth map shows you the number of restaurant in each district</li>
+                <li style="font-family:verdana;">Each restaurant is indicated by circles, the surface of the circle indicates the restaurant's customer feedback, the larger circle, the better review</li>
+        </div>
+        <div id="walkthrough-7">
+            This is another new message
+        </div>
+        <div id="walkthrough-8">
+            This is another new message
+        </div>
+    </div>
     <script src="js/test1.js"></script>
+    <script>
+    $(function() {
+        // Set up tour
+        $('body').pagewalkthrough({
+            name: 'introduction',
+            steps: [{
+                popup: {
+                    content: '#walkthrough-1',
+                    type: 'modal'
+                }
+            }, {
+                wrapper: '.legend',
+                popup: {
+                    content: '#walkthrough-7',
+                    type: 'tooltip',
+                    position: 'left'
+                }
+            }, {
+                wrapper: '.leaflet-bar-part',
+                popup: {
+                    content: '#walkthrough-8',
+                    type: 'tooltip',
+                    position: 'left'
+                }
+            }, {
+                wrapper: '.leaflet-control-layers-list',
+                popup: {
+                    content: '#walkthrough-8',
+                    type: 'tooltip',
+                    position: 'left'
+                }
+            }]
+        });
+
+        // Show the tour
+        $('body').pagewalkthrough('show');
+    });
+    </script>
 </body>
 
 </html>
