@@ -15,20 +15,7 @@
         "vote": "68%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "20 Votes\r\nRasa Istimewa Woodlands Waterfront Restaurant\r\nHALAL • SEAFOOD • WESTERN\r\nADDRESS: Woodlands Waterfront Park, 6A Admiralty Road West, 757445\r\n",
-        "vote": "75%\r\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {

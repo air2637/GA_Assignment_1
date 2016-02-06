@@ -309,20 +309,7 @@
         "vote": "90%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "18 Votes\r\nCrystal Jade La Mian Xiao Long Bao (Bugis) \r\nASIAN • CHINESE • SHANGHAINESE\r\nADDRESS: #B1-04A/04B, Bugis Junction, 200 Victoria Street, 180021\r\n",
-        "vote": "72%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
@@ -337,20 +324,7 @@
         "vote": "82%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "123 Votes\r\nMa Maison Restaurant (Bugis Junction) \r\nASIAN • FUSION • JAPANESE • WESTERN\r\nADDRESS: #02-51, Bugis Junction, 200 Victoria Street, 180021\r\n",
-        "vote": "74%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {

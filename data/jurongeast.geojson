@@ -71,34 +71,8 @@
         "vote": "91%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "49 Votes\r\nMiam Miam (Westgate)\r\nASIAN • EUROPEAN • FRENCH • FUSION • ITALIAN • MORE\r\nADDRESS: #01-21/22, Westgate, 3 Gateway Drive, 608532\r\n",
-        "vote": "63%\r\n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "15 Votes\r\nIppudo SG (Westgate)\r\nASIAN • JAPANESE\r\nADDRESS: #03-03, Westgate, 3 Gateway Drive, 608532\r\n",
-        "vote": "93%\r\n"
-      }
-    },
+    
+    
     {
       "type": "Feature",
       "geometry": {
@@ -155,34 +129,8 @@
         "vote": "56%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "12 Votes\r\nGriddy \r\nEUROPEAN • INTERNATIONAL • WESTERN\r\nADDRESS: #B2-K12, Westgate, 3 Gateway Drive, 608532\r\n",
-        "vote": "92%\r\n"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "12 Votes\r\nParadise Dynasty (Westgate) \r\nASIAN • CHINESE • DESSERTS • DIM SUM • SHANGHAINESE • MORE\r\nADDRESS: #02-13/14, Westgate, 3 Gateway Drive, 608532\r\n",
-        "vote": "92%\r\n"
-      }
-    },
+   
+  
     {
       "type": "Feature",
       "geometry": {
@@ -239,20 +187,7 @@
         "vote": "78%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "30 Votes\r\nTim Ho Wan (Westgate) \r\nASIAN • CANTONESE • CHINESE • DIM SUM • HONG KONG\r\nADDRESS: #01-13/14, Westgate, 3 Gateway Drive, 608532\r\n",
-        "vote": "60%\r\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -323,20 +258,7 @@
         "vote": "63%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "42 Votes\r\n Exclusive\r\nRobata Robata \r\nASIAN • JAPANESE\r\nADDRESS: #03-10/11, Westgate, 3 Gateway Drive, 608532\r\n",
-        "vote": "45%\r\n"
-      }
-    },
+    
     {
       "type": "Feature",
       "geometry": {
@@ -379,20 +301,7 @@
         "vote": "100%\r\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "15 Votes\r\n CNY\r\nSync Korean Fusion Bistro \r\nASIAN • FUSION • KOREAN\r\nADDRESS: #03-01, Westgate, 3 Gateway Drive, 608532\r\n",
-        "vote": "67%\r\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {

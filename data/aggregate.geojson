@@ -505,20 +505,7 @@
         "vote": "100%\n"
       }
     },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.6428331,
-          33.1592198
-        ]
-      },
-      "properties": {
-        "info": "4 Votes\nShihlin Taiwan Street Snacks (Nex) \nASIAN • CHINESE • SNACKS • TAIWANESE\nADDRESS: #03-K12, Nex, 23 Serangoon Central, 566083\n",
-        "vote": "100%\n"
-      }
-    },
+   
     {
       "type": "Feature",
       "geometry": {
