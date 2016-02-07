@@ -93,7 +93,17 @@ function getColor(d) {
         d > 10 ? '#fed976' :
         '#ffffb2';
 
+}
 
+function getColor_another(d) {
+   
+    return d > 60 ? '#b10026' :
+        d > 50 ? '#e31a1c' :
+        d > 40 ? '#fc4e2a' :
+        d > 30 ? '#fd8d3c' :
+        d > 20 ? '#feb24c' :
+        d > 10 ? '#fed976' :
+        '#ffffb2';
 
 }
 
@@ -145,6 +155,40 @@ legend.onAdd = function(map) {
 legend.addTo(map);
 
 
+// == create new control
+/*var palateBox = L.control({
+    position: 'bottomright'
+});
+
+palateBox.onAdd = function(map) {
+
+    var div = L.DomUtil.create('div', 'palateBox');
+
+    div.innerHTML = '<select><option>1</option><option>2</option><option>3</option></select>';
+
+    
+    return div;
+};
+
+palateBox.addTo(map);
+
+$(".palateBox").change( function(){
+    var option = $(".palateBox option:selected").text();
+    console.log("palatebox changes to: "+option);
+    if(option=="1"){
+        
+    }else if(option=="2"){
+
+    }
+
+}
+    
+    );*/
+
+
+
+
+
 
 // == add AMK restaurant points
 
@@ -155,7 +199,7 @@ var sites = ["AMK", "chinatown", "bugis", "cityHall", "ClarkeQuay", "clementi", 
 restaurantLayer = L.layerGroup();
 $.each(sites, function(i, val) {
     var fileName = "data/" + val + ".geojson";
-    console.log(fileName);
+    //console.log(fileName);
     $.getJSON(fileName, function(data) {
         // add GeoJSON layer to the map once the file is loaded
 
