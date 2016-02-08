@@ -84,7 +84,7 @@ transportLayer = L.tileLayer('http://{s}.tile.opencyclemap.org/transport/{z}/{x}
 // == singapore district map
 
 function getColor(d) {
-   
+
     return d > 60 ? '#b10026' :
         d > 50 ? '#e31a1c' :
         d > 40 ? '#fc4e2a' :
@@ -96,7 +96,7 @@ function getColor(d) {
 }
 
 function getColor_another(d) {
-   
+
     return d > 60 ? '#b10026' :
         d > 50 ? '#e31a1c' :
         d > 40 ? '#fc4e2a' :
@@ -110,7 +110,7 @@ function getColor_another(d) {
 function style(feature) {
     return {
         fillColor: getColor(feature.properties.PNTCNT),
-       weight: 2,
+        weight: 2,
         opacity: 1,
         color: 'white',
         dashArray: '3',
@@ -119,15 +119,16 @@ function style(feature) {
 }
 
 // == load GeoJSON from an external file
-
+districtLayer = L.layerGroup();
 $.getJSON("data/choropleth.geojson", function(data) {
     // add GeoJSON layer to the map once the file is loaded
     //L.geoJson(data).addTo(map);
-    districtLayer = L.geoJson(data, {
+    var tempLayer = L.geoJson(data, {
         style: style
     });
+    districtLayer.addLayer(tempLayer);
     districtLayer.addTo(map);
-    loadLayerControl();
+    //loadLayerControl();
 });
 
 var legend = L.control({
@@ -351,11 +352,11 @@ $.ajax({
     url: "http://www.openstreetmap.org/api/0.6/relation/2313458/full",
     dataType: "xml",
     success: function(xml) {
-       
+
         dtlayer = new L.OSM.DataLayer(xml);
         dtlayer.setStyle(downtownStyle);
-        
-       // map.fitBounds(dtlayer.getBounds());
+
+        // map.fitBounds(dtlayer.getBounds());
         mrtLayer.addLayer(dtlayer);
     }
 
@@ -364,8 +365,11 @@ $.ajax({
 
 
 
+
 // ==layer control
 function loadLayerControl() {
+
+
 
     var baseMaps = {
         "baseLayer": baseLayer,
@@ -385,4 +389,6 @@ function loadLayerControl() {
         position: "topright"
     }).addTo(map);
 
+    console.log("this is called2");
 }
+
